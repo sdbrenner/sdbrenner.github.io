@@ -18,5 +18,5 @@ Any additional tools that I develop can be found on [my GitHub page](https://git
 # Other useful resources
 In addition to the tools developed in my lab or by myself personally, a number of members of the oceanographic and scientific community maintain websites and code repositories.  A few of these are listed below:
 
-* [Ocean Mixing Community GitHub repository](https://github.com/OceanMixingCommunity)
-* [SEA-MAT](https://www.eoas.ubc.ca/~rich/)
+* [Ocean Mixing Community GitHub repository](https://github.com/OceanMixingCommunity){:target="blank"}
+* [SEA-MAT](https://www.eoas.ubc.ca/~rich/){:target="blank"}
