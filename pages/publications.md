@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Online profiles
+# Online profiles
 
 Find details about published works on my online profile pages:
 
@@ -12,13 +12,13 @@ Find details about published works on my online profile pages:
 * [ResearchGate](https://www.researchgate.net/profile/Samuel_Brenner){:target="blank"}
 * [Orcid](https://orcid.org/0000-0002-0826-1294){:target="blank"}
 
-## Papers
+# Papers
 
 Brenner S. and B. Laval.  Seiche modes in multi-armed lakes. *(accepted to Limnology and Oceanography)*
 
 Brenner, S., 2017. [The free oscillatory response of fjord-type multi-armed lakes](/assets/ubc_2017_september_brenner_samuel.pdf){:target="blank"}. Masters thesis, University of British Columbia.
 
-## Posters
+# Posters
 
 Brenner S., L. Rainville, J. Thomson, C. Lee, [Small scale upper-ocean variability in the Arctic](/assets/OSM2018_poster.pdf){:target="blank"}. Poster presented at: Ocean Sciences Meeting; 2018 Feb. 11-16; Portland, OR
 
