@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+## Online profiles
+
+Find details about published works on my online profile pages:
+
+* [Google Scholar](https://scholar.google.com/citations?user=8G32xLIAAAAJ&hl=en&authuser=2){:target="blank"}
+* [ResearchGate](https://www.researchgate.net/profile/Samuel_Brenner){:target="blank"}
+* [Orcid](https://orcid.org/0000-0002-0826-1294){:target="blank"}
+
 ## Papers
 
 Brenner S. and B. Laval.  Seiche modes in multi-armed lakes. *(accepted to Limnology and Oceanography)*
