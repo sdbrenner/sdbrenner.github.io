@@ -19,4 +19,4 @@ In addition to the tools developed in my lab or by myself personally, a number o
 
 * [Turbulence methods for 5-beam ADCP's](https://github.com/mguerrap/5Beam-Turbulence-Methods){:target="blank"}
 * [Ocean Mixing Community GitHub repository](https://github.com/OceanMixingCommunity){:target="blank"}
-* [SEA-MAT](https://woodshole.er.usgs.gov/operations/sea-mat/){:target="blank"}
+* [SEA-MAT](https://sea-mat.github.io/sea-mat/){:target="blank"}
