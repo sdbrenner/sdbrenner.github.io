@@ -7,9 +7,10 @@ permalink: /publications/
 # Papers
 {: #papers}
 
-Brenner S. and B. Laval.  Seiche modes in multi-armed lakes. *(accepted to Limnology and Oceanography)*
+Brenner, S. D., and B. E. Laval. 2018. [Seiche modes in multi-armed lakes](https://doi.org/10.1002/lno.11001){:target="blank"}. Limnol. Oceanogr. **63:** 2717-2726
+doi:10.1002/lno.11001
 
-Brenner, S., 2017. [The free oscillatory response of fjord-type multi-armed lakes](/assets/ubc_2017_september_brenner_samuel.pdf){:target="blank"}. Masters thesis, University of British Columbia.
+Brenner, S., 2017. [The free oscillatory response of fjord-type multi-armed lakes](/assets/ubc_2017_september_brenner_samuel.pdf){:target="blank"}. Masters thesis, University of British Columbia. doi:10.14288/1.0353196
 
 # Posters
 {: #posters}

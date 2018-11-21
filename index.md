@@ -6,17 +6,23 @@ layout: default
 title: Home
 ---
 
-Welcome to my research site.  Please be patient as I populate the site with content.
+<!-- Welcome to my research site.  Please be patient as I populate the site with content. -->
 
 
+# Samuel D. Brenner
+
+*Masters of Applied Science in Civil Engineering* (University of Britih Columbia, 2017)<br>
+*Bachelors of Applied Science in Civil Engineering* (University of Britih Columbia, 2015) <br>
+
+<!-- {:refdef: style="text-align: center;"} -->
+![alt text](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:width="400px"}
+<!-- {: refdef} -->
+
+<!-- | :----: | :---- |
+| ![alt text](/assets/profile_pic.png "That's me!"){:width="150px"}| __Samuel D. Brenner__ <br> MASc in Civil Engineering (*UBC, 2017*) <br> BASc in Civil Engineering (*UBC, 2015*) | -->
 
 
-
-| :----: | :---- |
-| ![alt text](/assets/profile_pic.png "That's me!"){:width="150px"}| __Samuel D. Brenner__ <br> MASc in Civil Engineering (*UBC, 2017*) <br> BASc in Civil Engineering (*UBC, 2015*) |
-
-
-# About Me
+## About Me
 
 I am a PhD student studying Oceanography at the University of Washington under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}.  I started at UW in 2017 after completing a master's degree in applied science with a focus on environmental fluid mechanics in the Civil Engineering department at the University of British Columbia in Vancouver, BC.  I previously completed a bachelors of applied science degree in Civil Engineering at UBC.
 

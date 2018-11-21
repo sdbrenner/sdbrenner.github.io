@@ -6,7 +6,7 @@ permalink: /research/
 
 # Summary and interests
 
-I have an interest in studying small-scale dynamics in the near-surface region of the Arctic ocean and within inland water bodies.  My research considers these processes using an observational approach.  
+I have an interest in studying dynamic processes in the near-surface region of the Arctic ocean and within inland water bodies.  My research considers these processes using an observational approach.  
 <!-- For more details about the instrument platforms that I use, see my [Research Methods page](/methods/) -->
 
 # Current projects
@@ -23,7 +23,7 @@ Physical Limnology:<br>
 #### Density fronts in the Marginal Ice Zone
 {: #MIZ}
 
-![alt text](/assets/CurrentWork.png "MIZ density fronts")
+![alt text](/assets/CurrentWork_MIZ.png "MIZ density fronts")
 
 My current research focuses on the dynamic evolution of a small-scale upper-ocean front of cold, fresh water near the ice-edge within the Marginal Ice Zone.  This front was measured over a two-day span in the fall of 2014, and persists throughout the measurement period.  I am trying to determine what balance controls the evolution of the front and how it impacts the exchange of heat within the ocean and across the atmosphere-ocean interface.  
 
