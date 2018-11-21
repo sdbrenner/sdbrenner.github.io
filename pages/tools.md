@@ -7,6 +7,10 @@ permalink: /Tools/
 # My Tools
 Any tools that I develop can be found on [my GitHub page](https://github.com/sdbrenner){:target="blank"}.
 
+I work primarily in **Matlab**, and have a few scripts and functions developed for simple data processing, analysis, and visualization.  In general, I've tried to include help documentation and usage syntax but because these codes are developed for my own use, in some cases this documentation is sparse or missing or may be unintuitive.
+I welcome any feedback on improvements that I could make to the documentation or the codes. If you make use of these tools and find them helpful I'd love to hear about it.
+
+
 # SWIFT Codes
 Jim Thomson's lab maintains a library of Matlab codes used for analyzing various types of field data. These codes are primarily developed for the instrumentation packages included on the [SWIFT](http://www.apl.washington.edu/swift){:target="blank"} floats and wavegliders, but can be expanded for a variety of uses.
 
