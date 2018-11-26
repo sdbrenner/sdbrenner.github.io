@@ -24,7 +24,7 @@ title: Home
 
 ## About Me
 
-I am a PhD student studying Oceanography at the University of Washington under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}.  I started at UW in 2017 after completing a research-based Master’s of Applied Science Degree (M.A.Sc) at the University of British Columbia.  My master's degree was awarded by the department of Civil Engineering in the *Environmental Fluid Mechanics* discipline group, where I worked under the supervision of [Bernard Laval](https://www.civil.ubc.ca/faculty/bernard-laval).
+I am a PhD student studying Oceanography at the University of Washington under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}.  I started at UW in 2017 after completing a research-based Master’s of Applied Science Degree (M.A.Sc) at the University of British Columbia.  My master's degree was awarded by the department of Civil Engineering in the *Environmental Fluid Mechanics* discipline group, where I worked under the supervision of [Bernard Laval](https://www.civil.ubc.ca/faculty/bernard-laval){:target="blank"}.
 
 My interest and current focus is on small-scale processes and mixing in the upper ocean; more information can be found on my [Research page](/research/).
 
