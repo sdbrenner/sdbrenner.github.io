@@ -21,10 +21,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "sdbrenner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # Social Media and online presence:
 # twitter_username: sd_brenner
-# facebook_username: samuel.brenner.79
+# facebook_username: sdbrenner
 github_username:  sdbrenner
 instagram_username: sdbrenner
-linkedin_username: samuelbrenner
+linkedin_username: sdbrenner
 google_scholar: "https://scholar.google.com/citations?user=8G32xLIAAAAJ&hl=en&authuser=2"
 orchid: "https://orcid.org/0000-0002-0826-1294"
 
