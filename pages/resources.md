@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tools
-permalink: /Tools/
+title: Resources
+permalink: /resources/
 ---
 
 # My Tools
