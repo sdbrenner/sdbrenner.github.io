@@ -15,7 +15,7 @@ Brenner, S., 2017. [The free oscillatory response of fjord-type multi-armed lake
 # Posters
 {: #posters}
 
-Brenner S., L. Rainville, J. Thomson, C. Lee, [The evolution of an Arctic meltwater front](/assets/Liege2019_poster.pdf){:target="blank"}. Poster presented at: Liege Colloquium on Ocean Dynamics; 2019 May. 6-9; Liege, Belgium
+Brenner S., L. Rainville, J. Thomson, C. Lee, [The evolution of an Arctic meltwater front](/assets/Liege2019_poster.pdf){:target="blank"}. Poster presented at: Li\`{e}ge Colloquium on Ocean Dynamics; 2019 May. 6-9; Li\`{e}ge, Belgium
 
 Brenner S., L. Rainville, J. Thomson, C. Lee, [Small scale upper-ocean variability in the Arctic](/assets/OSM2018_poster.pdf){:target="blank"}. Poster presented at: Ocean Sciences Meeting; 2018 Feb. 11-16; Portland, OR
 
