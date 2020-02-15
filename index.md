@@ -16,7 +16,7 @@ title: Home
 *Bachelors of Applied Science in Civil Engineering* (University of Britih Columbia, 2015) <br>
 
 <!-- {:refdef: style="text-align: center;"} -->
-![](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:width="400px"}
+<!-- ![](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:width="400px"} -->
 <!-- {: refdef} -->
 
 <!-- | :----: | :---- |
