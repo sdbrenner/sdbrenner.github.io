@@ -8,7 +8,7 @@ title: Home
 
 <!-- ![](/assets/me.png){:width="200px”} -->
 <!-- # {% include inline_image.html file="me.png" %} Samuel D. Brenner  -->
-# (/assets/me.png){:width="100px”} Samuel D. Brenner
+# ![](/assets/me.png){:width="100px”} Samuel D. Brenner
 
 
 <!-- *Masters of Science in Oceanography* (University of Washington, 2019)<br>
