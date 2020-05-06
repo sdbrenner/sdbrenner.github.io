@@ -6,8 +6,10 @@ layout: default
 title: Home
 ---
 
-![](/assets/me.png){:width="200px”}
-# Samuel D. Brenner {% include inline_image.html file="me.png" %}
+<!-- ![](/assets/me.png){:width="200px”} -->
+<!-- # {% include inline_image.html file="me.png" %} Samuel D. Brenner  -->
+# (/assets/me.png){:width="100px”} Samuel D. Brenner
+
 
 <!-- *Masters of Science in Oceanography* (University of Washington, 2019)<br>
 *Masters of Applied Science in Civil Engineering* (University of Britih Columbia, 2017)<br>
