@@ -18,9 +18,9 @@ Physical Limnology:<br>
 #### Stratified Ocean Dynamics of the Arctic
 {: #SODA}
 <details>
-  <summary>
+  <!-- <summary>
     Details
-  </summary>
+  </summary> -->
 
 I am a project member of the Office of Naval Research's Stratified Ocean Dynamics of the Arctic program.  This program is focused on understanding the changes to the upper ocean stratification associated with decreasing summer sea ice and increased open water extent.  
 
@@ -36,8 +36,7 @@ For more details about the program, see the project site at:
 #### Density fronts in the Marginal Ice Zone
 {: #MIZ}
 <details>
-  <summary>
-    Details
+  <summary> Details
   </summary>
 
 ![](/assets/CurrentWork_MIZ.png "MIZ density fronts"){:width="300px" :class="img-responsive"}
@@ -56,7 +55,7 @@ This project uses data collected as part of the Office of Naval Research MIZ pro
 {: #seiches}
 <details>
   <summary>
-    Details
+  Details
   </summary>
 
   At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes.  My work involved the development of a simplified analytical model to determine modal periods and structures.  Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy.
