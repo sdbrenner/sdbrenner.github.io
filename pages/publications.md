@@ -4,13 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-# Papers
+# Journal Articles
 {: #papers}
 
-Brenner, S. D., and B. E. Laval. 2018. [Seiche modes in multi-armed lakes](https://doi.org/10.1002/lno.11001){:target="blank"}. Limnol. Oceanogr. **63:** 2717-2726
-doi:10.1002/lno.11001
+Brenner, S., Rainville, L., Thomson, J. and Lee, C., 2020. [The evolution of a shallow front in the Arctic marginal ice zone](http://doi.org/10.1525/elementa.413){:target="blank"}. Elem Sci Anth, 8(1), p.17. [doi:10.1525/elementa.413/](http://doi.org/10.1525/elementa.413){:target="blank"}
 
-Brenner, S., 2017. [The free oscillatory response of fjord-type multi-armed lakes](/assets/ubc_2017_september_brenner_samuel.pdf){:target="blank"}. Masters thesis, University of British Columbia. [doi:10.14288/1.0353196](https://doi.org/10.14288/1.0353196){:target="blank"}
+Brenner, S. D., and B. E. Laval. 2018. [Seiche modes in multi-armed lakes](https://doi.org/10.1002/lno.11001){:target="blank"}. Limnol. Oceanogr. **63:** 2717-2726
+[doi:10.1002/lno.11001](https://doi.org/10.1002/lno.11001){:target="blank"}
 
 # Posters
 {: #posters}
@@ -23,6 +23,12 @@ Brenner S., L. Rainville, J. Thomson, C. Lee, [Small scale upper-ocean variabili
 
 Brenner S., B. Laval, J. Shore, S. Vagle. [Surface Seiching in Quesnel Lake, British Columbia](/assets/CMOS2017_poster.pdf){:target="blank"}. Poster presented at: Canadian Meteorological and Oceanographic Society Congress; 2017 June 4-8; Toronto, ON
 <!-- SEE http://cmosarchives.ca/Congress_P_A/program_abstracts2017.pdf (pg.304) 1708011 POSTER SESSION - PART 2 -->
+
+
+# Other
+
+Brenner, S., 2017. [The free oscillatory response of fjord-type multi-armed lakes](/assets/ubc_2017_september_brenner_samuel.pdf){:target="blank"}. Masters thesis, University of British Columbia. [doi:10.14288/1.0353196](https://doi.org/10.14288/1.0353196){:target="blank"}
+
 
 # Online profiles
 
