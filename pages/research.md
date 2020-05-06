@@ -4,11 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Summary and interests
-
-I have an interest in studying dynamic processes in the near-surface region of the Arctic ocean and within inland water bodies.  My research considers these processes using an observational approach.  
-<!-- For more details about the instrument platforms that I use, see my [Research Methods page](/methods/) -->
-
 # Current and recent projects
 
 Oceanography: <br>
@@ -49,10 +44,13 @@ This project uses data collected as part of the Office of Naval Research MIZ pro
 
 
 
-#### Barotropic seiche modes in complex basins
-{: #seiches}
+
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>
+  #### Barotropic seiche modes in complex basins
+  {: #seiches}
+  </summary>
 
   At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes.  My work involved the development of a simplified analytical model to determine modal periods and structures.  Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy.
 
