@@ -6,8 +6,6 @@ layout: default
 title: Home
 ---
 
-<!-- ![](/assets/me.png){:width="200px”} -->
-<!-- # {% include inline_image.html file="me.png" %} Samuel D. Brenner  -->
 # Samuel D. Brenner
 
 
@@ -26,13 +24,11 @@ I have an interest in studying dynamic processes in the near-surface region of t
 
 ## About Me
 
-I am a PhD student studying Oceanography at the University of Washington (UW) under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}.  I started at UW in 2017 after completing a Master’s of Applied Science Degree (MASc) at the University of British Columbia.  My master's degree was awarded by the department of Civil Engineering in the *Environmental Fluid Mechanics* discipline group, where I worked under the supervision of [Bernard Laval](https://www.civil.ubc.ca/faculty/bernard-laval){:target="blank"} and studied standing wave structures in lakes.
+I am a PhD student studying Oceanography at the University of Washington (UW) under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}.  I started at UW in 2017 after completing a Master’s of Applied Science degree (MASc) at the University of British Columbia.  My master's degree was awarded by the department of Civil Engineering in the *Environmental Fluid Mechanics* discipline group, where I worked under the supervision of [Bernard Laval](https://www.civil.ubc.ca/faculty/bernard-laval){:target="blank"} and studied standing wave structures in lakes.
 In May, 2019 I completed the requirements for a Master's of Science (MS; non-thesis) at UW based on a observational study of submesoscale frontal processes in the western Arctic marginal ice zone.
 
-<!-- My interest and current focus is on small-scale processes and mixing in the upper ocean; more information can be found on my [Research page](/research/). -->
 
-
-*[MASc]: Masters of Applied Science
+<!-- *[MASc]: Masters of Applied Science
 *[BASc]: Bachelors of Applied Science
 *[UBC]: University of British Columbia
-*[UW]: University of Washington
+*[UW]: University of Washington -->
