@@ -15,12 +15,13 @@ title: Home
 *Masters of Applied Science in Civil Engineering* (University of Britih Columbia, 2017)<br>
 *Bachelors of Applied Science in Civil Engineering* (University of Britih Columbia, 2015) <br>
 
-<!-- {:refdef: style="text-align: center;"} -->
-![](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:width="400px"}
-<!-- {: refdef} -->
 
-<!-- | :----: | :---- |
-| ![alt text](/assets/profile_pic.png "That's me!"){:width="150px"}| __Samuel D. Brenner__ <br> MASc in Civil Engineering (*UBC, 2017*) <br> BASc in Civil Engineering (*UBC, 2015*) | -->
+<!-- ![](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:width="400px"} -->
+![](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:class="img-cicle",:width="200px"}
+
+
+## Summary
+I have an interest in studying dynamic processes in the near-surface region of the Arctic ocean and within inland water bodies.  My research considers these processes using an observational approach.  
 
 
 ## About Me
