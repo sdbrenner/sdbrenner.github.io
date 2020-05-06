@@ -6,16 +6,16 @@ layout: default
 title: Home
 ---
 
+![](/assets/me.png){:width="200px”}
+# Samuel D. Brenner {% include inline_image.html file="me.png" %}
 
-# Samuel D. Brenner
-
-*Masters of Science in Oceanography* (University of Washington, 2019)<br>
+<!-- *Masters of Science in Oceanography* (University of Washington, 2019)<br>
 *Masters of Applied Science in Civil Engineering* (University of Britih Columbia, 2017)<br>
-*Bachelors of Applied Science in Civil Engineering* (University of Britih Columbia, 2015) <br>
+*Bachelors of Applied Science in Civil Engineering* (University of Britih Columbia, 2015) <br> -->
 
 
 <!-- ![](/assets/IMG_6807.png "Photo credit: Amanda Camarato, 2018"){:width="400px"} -->
-![](/assets/me.png){:width="250px” :class="img-cicle" }
+
 
 
 ## Summary
