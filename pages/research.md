@@ -15,16 +15,6 @@ Physical Limnology:<br>
 * [Barotropic seiche modes in complex basins](#seiches) -->
 
 
-$ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
-<details>
-  <summary>Collapsed Block
-</summary>
-
-  <h2 id="header">Header</h2>
-</details>
-
-
-
 #### Stratified Ocean Dynamics of the Arctic
 {: #SODA}
 <details>
