@@ -36,10 +36,8 @@ For more details about the program, see the project site at:
 #### Density fronts in the Marginal Ice Zone
 {: #MIZ}
 <details>
-  <summary> Details
-  </summary>
 
-![](/assets/CurrentWork_MIZ.png "MIZ density fronts"){:width="300px" :class="img-responsive"}
+![](/assets/CurrentWork_MIZ.png "MIZ density fronts") <!-- {:width="300px" :class="img-responsive"} -->
 
 For my MS in Oceanography, I focused on the dynamic evolution of a small-scale upper-ocean front of cold, fresh water near the ice-edge within the Marginal Ice Zone.  This front was measured over a two-day span in the fall of 2014, and persists throughout the measurement period.  I am trying to determine what balance controls the evolution of the front and how it impacts the exchange of heat within the ocean and across the atmosphere-ocean interface.  
 
@@ -54,9 +52,6 @@ This project uses data collected as part of the Office of Naval Research MIZ pro
 #### Barotropic seiche modes in complex basins
 {: #seiches}
 <details>
-  <summary>
-  Details
-  </summary>
 
   At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes.  My work involved the development of a simplified analytical model to determine modal periods and structures.  Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy.
 
