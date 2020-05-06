@@ -6,13 +6,13 @@ permalink: /research/
 
 # Current and recent projects
 
-Oceanography: <br>
+<!-- Oceanography: <br>
 * [Stratified Ocean Dynamics of the Arctic](#SODA)
 * [Density fronts in the Marginal Ice Zone](#MIZ)
 
 
 Physical Limnology:<br>
-* [Barotropic seiche modes in complex basins](#seiches)
+* [Barotropic seiche modes in complex basins](#seiches) -->
 
 
 #### Stratified Ocean Dynamics of the Arctic
@@ -36,7 +36,7 @@ For more details about the program, see the project site at:
 <details>
   <summary>Details</summary>
 
-![](/assets/CurrentWork_MIZ.png "MIZ density fronts"){:class="img-responsive"}
+![](/assets/CurrentWork_MIZ.png "MIZ density fronts"){:width="300px" :class="img-responsive"}
 
 For my MS in Oceanography, I focused on the dynamic evolution of a small-scale upper-ocean front of cold, fresh water near the ice-edge within the Marginal Ice Zone.  This front was measured over a two-day span in the fall of 2014, and persists throughout the measurement period.  I am trying to determine what balance controls the evolution of the front and how it impacts the exchange of heat within the ocean and across the atmosphere-ocean interface.  
 
