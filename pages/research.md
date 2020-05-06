@@ -18,8 +18,7 @@ Physical Limnology:<br>
 
 {: #SODA}
 <details>
-  <summary>
-    #### Stratified Ocean Dynamics of the Arctic
+  <summary>#### Stratified Ocean Dynamics of the Arctic
   </summary>
 
 I am a project member of the Office of Naval Research's Stratified Ocean Dynamics of the Arctic program.  This program is focused on understanding the changes to the upper ocean stratification associated with decreasing summer sea ice and increased open water extent.  
