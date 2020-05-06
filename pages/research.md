@@ -9,7 +9,7 @@ permalink: /research/
 I have an interest in studying dynamic processes in the near-surface region of the Arctic ocean and within inland water bodies.  My research considers these processes using an observational approach.  
 <!-- For more details about the instrument platforms that I use, see my [Research Methods page](/methods/) -->
 
-# Current projects
+# Current and recent projects
 
 Oceanography: <br>
 * [Stratified Ocean Dynamics of the Arctic](#SODA)
@@ -25,7 +25,7 @@ Physical Limnology:<br>
 
 I am a project member of the Office of Naval Research's Stratified Ocean Dynamics of the Arctic program.  This program is focused on understanding the changes to the upper ocean stratification associated with decreasing summer sea ice and increased open water extent.  
 
-My current work focuses on momentum transfer across the air-ice-ocean interface in the Beaufort Sea.  Observations from three moorings distributed in the Beaufort Sea from Sept 2018 to Sept 2019 show marked variations in the upper ocean momentum, with much higher velocities and more energetic activity at the southern mooring, and signficantly quiter timeseries at the northern mooring.  I am looking at the role of surface stress input in setting the variations between moorings, and investigating how ice mediates that process. 
+My current work focuses on momentum transfer across the air-ice-ocean interface in the Beaufort Sea.  Observations from three moorings distributed in the Beaufort Sea from Sept 2018 to Sept 2019 show marked variations in the upper ocean momentum, with much higher velocities and more energetic activity at the southern mooring, and signficantly quiter timeseries at the northern mooring.  I am looking at the role of surface stress input in setting the variations between moorings, and investigating how ice mediates that process.
 
 <!-- ![alt text](/assets/CurrentWork_SODA1.png "") -->
 
@@ -38,7 +38,7 @@ For more details about the program, see the project site at:
 #### Density fronts in the Marginal Ice Zone
 {: #MIZ}
 
-![alt text](/assets/CurrentWork_MIZ.png "MIZ density fronts")
+![](/assets/CurrentWork_MIZ.png "MIZ density fronts"){:class="img-responsive"}
 
 For my MSc in Oceanography, I focused on the dynamic evolution of a small-scale upper-ocean front of cold, fresh water near the ice-edge within the Marginal Ice Zone.  This front was measured over a two-day span in the fall of 2014, and persists throughout the measurement period.  I am trying to determine what balance controls the evolution of the front and how it impacts the exchange of heat within the ocean and across the atmosphere-ocean interface.  
 
@@ -51,8 +51,12 @@ This project uses data collected as part of the Office of Naval Research MIZ pro
 
 #### Barotropic seiche modes in complex basins
 {: #seiches}
+<details>
+  <summary>Click to expand!</summary>
 
-At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes.  My work involved the development of a simplified analytical model to determine modal periods and structures.  Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy.
+  At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes.  My work involved the development of a simplified analytical model to determine modal periods and structures.  Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy.
+
+</details>
 
 
 
