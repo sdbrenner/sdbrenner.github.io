@@ -17,23 +17,24 @@ Physical Limnology:<br>
 
 #### Stratified Ocean Dynamics of the Arctic
 {: #SODA}
+<details>
+  <summary>Details</summary>
 
 I am a project member of the Office of Naval Research's Stratified Ocean Dynamics of the Arctic program.  This program is focused on understanding the changes to the upper ocean stratification associated with decreasing summer sea ice and increased open water extent.  
 
 My current work focuses on momentum transfer across the air-ice-ocean interface in the Beaufort Sea.  Observations from three moorings distributed in the Beaufort Sea from Sept 2018 to Sept 2019 show marked variations in the upper ocean momentum, with much higher velocities and more energetic activity at the southern mooring, and signficantly quiter timeseries at the northern mooring.  I am looking at the role of surface stress input in setting the variations between moorings, and investigating how ice mediates that process.
 
 <!-- ![alt text](/assets/CurrentWork_SODA1.png "") -->
-
+</details>
 
 For more details about the program, see the project site at:
 [http://apl.washington.edu/soda](http://apl.washington.edu/soda){:target="blank"}
 
 
-<details>
-  <summary>
 #### Density fronts in the Marginal Ice Zone
 {: #MIZ}
-  </summary>
+<details>
+  <summary>Details</summary>
 
 ![](/assets/CurrentWork_MIZ.png "MIZ density fronts"){:class="img-responsive"}
 
@@ -47,12 +48,10 @@ This project uses data collected as part of the Office of Naval Research MIZ pro
 </details>
 
 
-
-<details>
-  <summary>
 #### Barotropic seiche modes in complex basins
 {: #seiches}
-  </summary>
+<details>
+  <summary>Details</summary>
 
   At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes.  My work involved the development of a simplified analytical model to determine modal periods and structures.  Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy.
 
