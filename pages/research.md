@@ -15,10 +15,19 @@ Physical Limnology:<br>
 * [Barotropic seiche modes in complex basins](#seiches) -->
 
 
+$ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
+<details>
+  <summary>Collapsed Block
+</summary>
 
+  <h2 id="header">Header</h2>
+</details>
+
+
+
+#### Stratified Ocean Dynamics of the Arctic
 {: #SODA}
-<details><summary>#### Stratified Ocean Dynamics of the Arctic 
-  </summary>
+<details>
 
 I am a project member of the Office of Naval Research's Stratified Ocean Dynamics of the Arctic program.  This program is focused on understanding the changes to the upper ocean stratification associated with decreasing summer sea ice and increased open water extent.  
 
