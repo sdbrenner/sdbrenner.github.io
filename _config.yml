@@ -30,6 +30,8 @@ orchid: "https://orcid.org/0000-0002-0826-1294"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 theme: minima
 plugins:
   - jekyll-feed
