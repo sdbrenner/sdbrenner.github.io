@@ -7,7 +7,7 @@ permalink: /publications/
 # Journal Articles
 {: #papers}
 
-**Brenner, S.**, Rainville, L., Thomson, J. Cole, S. and Lee, C., *Accepted (2021)*. [Comparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea](https://www.essoar.org/doi/10.1002/essoar.10504759.1){:target="blank"}. JGR: Oceans.[doi:10.1029/2020JC016977](http://doi.org/10.1029/2020JC016977){:target="blank"}
+**Brenner, S.**, Rainville, L., Thomson, J. Cole, S. and Lee, C., *Accepted (2021)*. [Comparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea](https://www.essoar.org/doi/10.1002/essoar.10504759.1){:target="blank"}. JGR: Oceans. [doi:10.1029/2020JC016977](http://doi.org/10.1029/2020JC016977){:target="blank"}
 
 **Brenner, S.**, Rainville, L., Thomson, J. and Lee, C., 2020. [The evolution of a shallow front in the Arctic marginal ice zone](http://doi.org/10.1525/elementa.413){:target="blank"}. Elem Sci Anth, 8(1), p.17. [doi:10.1525/elementa.413/](http://doi.org/10.1525/elementa.413){:target="blank"}
 
