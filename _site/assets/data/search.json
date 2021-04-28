@@ -1,0 +1,51 @@
+[
+  
+  {
+    "title"    : "New paper on ice-ocean drag",
+    "category" : "",
+    "tags"     : " ice-ocean drag, publication, observations, SODA, Arctic",
+    "url"      : "/2021/04/01/new-paper.html",
+    "date"     : "April 1, 2021",
+    "excerpt"  : "I’m excited to share that my paper has been accepted in JGR: Oceans! Learn about how Arctic sea ice geometry influences the transfer of momentum across the ice-ocean interface, and how well that’s described by current theories.\n\n\nComparing observa...",
+  "content"  : "I’m excited to share that my paper has been accepted in JGR: Oceans! Learn about how Arctic sea ice geometry influences the transfer of momentum across the ice-ocean interface, and how well that’s described by current theories.\n\n\nComparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea\n\nWe used observations from moorings to investigate ice-ocean drag over the course of a year and saw consistent seasonal signals with a minimum drag in the summer/fall.\n\n\n\nDirect measurements of ice geometry allowed us to compare these results to parameterizations used in modern sea ice models (e.g, such as the one introduced for CICE). Together, the observations and model parameterizations showed that the seasonal signals that were tied to the growth and melt of ice keels; when the keels melted, the drag coefficients significantly decreased.\n\nOverall, a positive outlook for the parameterizations we tested:  they were able to predict the drag coefficients when the real ice geometry was used as input. BUT there were challenges in predicting geometry from bulk measures (especially floe sizes during melt season). This may explains the seasonal mismatch seen between past observations/model results.\n\nHopefully these results can be used to improve models of sea ice dynamics, and to better constrain the surface boundary conditions when looking at things like upper ocean shear-driven mixing.\n"
+} 
+  
+  ,
+  
+  {
+  
+  "title"    : "miz fronts",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/miz",
+  "date"     : "April 28, 2021",
+  "excerpt"  : "Freshwater input from the melting of sea ice can lead to strong lateral density gradients in the marginal ice zone.\nThese gradients are thought to be unstable to submesoscale instabilties and restratification.\n\nUsing a novel set of observations ta...",
+  "content"  : "Freshwater input from the melting of sea ice can lead to strong lateral density gradients in the marginal ice zone.\nThese gradients are thought to be unstable to submesoscale instabilties and restratification.\n\nUsing a novel set of observations taken during the Office of Naval Research “Marginal Ice Zone” (MIZ) program in 2014, I showed the dynamic evolution of one such small-scale upper-ocean front over the course of just a few days. This frontal adjustment was concurrent with changes in the ice edge character, with a shift from a compact ice edge to one that was diffuse and filamented with coherent vortical structures.\n\n\n\nI presented posters on this work at the 2018 Ocean Sciences Meeting in Portland, OR and the 2019 Liège Colloquium on Ocean Dynamics in Belgium (see my publications page to download them), and published a paper in the journal “Elementa” in 2020:\nThe evolution of a shallow front in the Arctic marginal ice zone\n\nFor more details about the MIZ program, see the project site at: http://apl.washington.edu/miz\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "soda",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/soda",
+  "date"     : "April 28, 2021",
+  "excerpt"  : "The “Stratified Dynamics of the Arctic” (SODA) program is an Office of Naval Research project aiming to better understand the controls of heat, buoyancy, and momentum in the upper Beaufort Sea, and how those controls might be changing with sea ice...",
+  "content"  : "The “Stratified Dynamics of the Arctic” (SODA) program is an Office of Naval Research project aiming to better understand the controls of heat, buoyancy, and momentum in the upper Beaufort Sea, and how those controls might be changing with sea ice loss.\n\nIn addition to a number of other observational tools and platforms, the program included an array of moorings across the Beaufort Sea, deployed for an annual cycle from Fall 2018 to Fall 2019.\nMy work within the project has focused on processing and analysis of those mooring data - especially the ocean and ice velocity, and ice geometry data from upward looking ADCPs on each of the moorings.\n\n\n\n\nWith these data, I am exploring questions about how sea ice impacts the momentum transfer from the wind into the upper ocean.\n\nMy initial focus was on the variations in the ice-ocean drag coefficient, where I’ve found that the growth and melt of ice keels can lead to highly seasonal drag which is modelled well by existing ice-ocean drag parameterizations (provided good input geometry). I presented a poster about this work at the 2020 Ocean Sciences Meeting in San Diego, and a talk at the 2020 virtual AGU meeting. I published a paper about this in JGR: Oceans in 2021:\nComparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea\n(read my announcement post with some highlights from the paper here).\n\n\n\n\n\nFor more details about the SODA program, see the project site at: http://apl.washington.edu/soda\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "seiching",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/seiching",
+  "date"     : "April 28, 2021",
+  "excerpt"  : "At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes. My work involved the development of a simplified analytical model to determine...",
+  "content"  : "At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes. My work involved the development of a simplified analytical model to determine modal periods and structures.\nThe model describes these lakes as interconnected longitudinal basins which are coupled at the confluence.\n\n\n\nThe main results of this work are (1) a simple formula for predicting the modal frequencies (\\(\\omega\\) that satisfy):\n\n\\(\\sum_i^N \\sqrt{gH_i} \\tan\\left(\\frac{L_i\\omega}{\\sqrt{gH_i}}\\right) = 0\\),\n\nand (2), the identification that under certain geometric constraints, there can be an additional set of “decoupled” modes in which only 2 arms of any given lake are active.\n\nThis research formed the basis for my Masters Thesis at UBC: The free oscillatory response of fjord-type multi-armed lakes.\nI also presented a poster about this work at the Canadian Meteorological and Oceanographic Society Congress in 2017, and published a paper about the analytical model in Limnology and Oceanography: Seiche modes in multi-armed lakes.\n\nTogether with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy, and have a manuscript in prep.\n\n\n"
+  
+} 
+  
+]

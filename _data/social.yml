@@ -1,0 +1,40 @@
+# Icons on the footer
+rss: false
+email_address: "sdbren@uw.edu"   # Full email address, e.g. "sam@example.com"
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "sdbrenner"
+instagram: "sdbrenner"
+keybase:
+linkedin:         # Full URL
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: "SamuelDBrenner"         # "twitter username"
+vimeo:
+wordpress:
+youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# rss specify feed path
+feed:
+  path: feed.xml
+
+# Share button options
+share:
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
+  pocket: false
+  reddit: false
+  linkedin: false
+  wordpress: false
+  email: false

@@ -1,49 +1,50 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://sdbrenner.github.io/"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: sdbrenner research
-author: Samuel Brenner
-email: sdbren@uw.edu
-description: "" # this means to ignore newlines until "baseurl:" This site details my research interests and activities.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "sdbrenner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# Social Media and online presence:
-# twitter_username: sd_brenner
-# facebook_username: sdbrenner
-github_username:  sdbrenner
-instagram_username: sdbrenner
-linkedin_username: sdbrenner
-google_scholar: "https://scholar.google.com/citations?user=8G32xLIAAAAJ&hl=en&authuser=2"
-orchid: "https://orcid.org/0000-0002-0826-1294"
+# THEME-SPECIFIC CONFIGURATION
+title: sdbrenner research                               # site's title
+description: "Samuel D. Brenner oceanographic research" # used by search engines
+avatar: assets/img/face_icon.png                        # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
-# Build settings
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-theme: minima
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Header and footer text
+header_text: samuel d. brenner                          # Change Blog header text
+# header_feature_image: assets/img/pexels/triangular.jpeg
+header_feature_image: assets/img/feature-img/main_header.png
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+# color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+color_image: ""
+
+# Features
+# More in the _data folder for social icons, share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: true                                             # Enable if using math markup
+mermaid: true                                           # Enable mermaid-js for sequence and diagrams
+google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
+cookie_consent: false                                   # To respect the usage of cookies
+disqus_shortname:                                       # Your discus shortname for comments
+color_theme: auto                                       # auto, dark or light
+
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
+
+theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+# remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
