@@ -1,0 +1,43 @@
+I"y<p>I have an interest in studying dynamic processes in the near-surface Arctic ocean and within inland water bodies. My research primarily considers these processes using a combination of observations and simple theory.</p>
+
+<p>Click on the project links below for more information about some of the topic areas that I’ve explored.</p>
+
+<!-- Portfolio Grid Section -->
+<div class="portfolio-grid">
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/portfolio/miz">
+            <div class="caption" title="miz fronts">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/miz.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/portfolio/soda">
+            <div class="caption" title="soda">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/soda.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/portfolio/seiching">
+            <div class="caption" title="seiching">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/seiche.png" />
+        </a>
+    </div>
+    
+</div>
+
+:ET

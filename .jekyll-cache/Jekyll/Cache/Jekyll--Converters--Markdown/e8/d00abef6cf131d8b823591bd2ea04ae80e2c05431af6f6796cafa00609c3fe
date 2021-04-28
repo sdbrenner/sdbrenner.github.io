@@ -1,0 +1,18 @@
+I"m<p>At the University of British Columbia, I studied the effect of geometry on the standing wave modes (or seiches) that can be present within multi-armed fjord-type lakes. My work involved the development of a simplified analytical model to determine modal periods and structures.
+The model describes these lakes as interconnected longitudinal basins which are coupled at the confluence.</p>
+
+<p><img src="/assets/img/figures/QLMode1.png" alt="Barotropich seiche modes in Quesnel Lake" /></p>
+
+<p>The main results of this work are (1) a simple formula for predicting the modal frequencies (\(\omega\) that satisfy):</p>
+
+<p>\(\sum_i^N \sqrt{gH_i} \tan\left(\frac{L_i\omega}{\sqrt{gH_i}}\right) = 0\),</p>
+
+<p>and (2), the identification that under certain geometric constraints, there can be an additional set of “decoupled” modes in which only 2 arms of any given lake are active.</p>
+
+<p>This research formed the basis for my Masters Thesis at UBC: <a href="https://doi.org/10.14288/1.0353196">The free oscillatory response of fjord-type multi-armed lakes</a>.
+I also presented a poster about this work at the Canadian Meteorological and Oceanographic Society Congress in 2017, and published a paper about the analytical model in Limnology and Oceanography: <a href="https://doi.org/10.1002/lno.11001"><strong>Seiche modes in multi-armed lakes</strong></a>.</p>
+
+<p>Together with collaborators, I am continuing to compare the predictions made by analytical model to real-world observations in lakes in both Canada and Italy, and have a manuscript <em>in prep</em>.</p>
+
+<p><img src="/assets/img/figures/2LakesBathymetry.png" alt="" /></p>
+:ET
