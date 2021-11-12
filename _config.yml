@@ -13,7 +13,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: samuel d. brenner                          # Change Blog header text
 # header_feature_image: assets/img/pexels/triangular.jpeg
 header_feature_image: assets/img/feature-img/main_header.png
-footer_text: ""
+footer_text: test
   # >
   # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
