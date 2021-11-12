@@ -3,43 +3,42 @@
  * (Font: SIL OFL 1.1, CSS: MIT License)
  */
 
-$ssp-font-path: "../../assets/fonts/Barlow_Semi_Condensed" !default;
+$barlow-font-path: "../../assets/fonts/Barlow_Semi_Condensed" !default;
 /* latin */
-@font-face {
-  font-family: 'Barlow_Semi_Condensed';
-  font-style: italic;
-  font-display: auto;
-  font-weight: 400;
-  src: local("Barlow_Semi_Condensed Italic"), local("Barlow_Semi_Condensed-Italic"), url('#{$ssp-font-path}/BarlowSemiCondensed-Italic.ttf') format("ttf");
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
+// @font-face {
+//   font-family: 'Barlow Semi Condensed';
+//   font-style: italic;
+//   font-display: auto;
+//   font-weight: 400;
+//   src: local("Barlow Semi Condensed Italic"), local("Barlow Semi Condensed-Italic"), url('#{$ssp-font-path}/BarlowSemiCondensed-Italic.ttf') format("truetype");
+//   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+// }
+//
 // /* latin */
 // @font-face {
 //   font-family: 'Barlow_Semi_Condensed';
 //   font-style: italic;
 //   font-display: auto;
 //   font-weight: 400;
-//   src: local("Barlow_Semi_Condensed Bold Italic"), local("Barlow_Semi_Condensed-BoldItalic"), url('#{$ssp-font-path}//BarlowSemiCondensed-SemiBoldItalic.ttf') format("ttf");
+//   src: local("Barlow_Semi_Condensed Bold Italic"), local("Barlow_Semi_Condensed-BoldItalic"), url('#{$ssp-font-path}//BarlowSemiCondensed-SemiBoldItalic.ttf') format("truetype");
 //   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 // }
-//
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-display: auto;
+  src: url('#{$barlow-font-path}/BarlowSemiCondensed-Light.ttf') format("truetype"); /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
 // /* latin */
 // @font-face {
 //   font-family: 'Barlow_Semi_Condensed';
 //   font-style: normal;
 //   font-display: auto;
 //   font-weight: 400;
-//   src: local("Barlow_Semi_Condensed Regular"), local("Barlow_Semi_Condensed-Regular"), url('#{$ssp-font-path}/BarlowSemiCondensed-Light.ttf') format("ttf");
-//   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-// }
-//
-// /* latin */
-// @font-face {
-//   font-family: 'Barlow_Semi_Condensed';
-//   font-style: normal;
-//   font-display: auto;
-//   font-weight: 400;
-//   src: local("Barlow_Semi_Condensed Bold"), local("Barlow_Semi_Condensed-Bold"), url('#{$ssp-font-path}/BarlowSemiCondensed-SemiBold.ttf') format("ttf");
+//   src: local("Barlow_Semi_Condensed Bold"), local("Barlow_Semi_Condensed-Bold"), url('#{$ssp-font-path}/BarlowSemiCondensed-SemiBold.ttf') format("truetype");
 //   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 // }
