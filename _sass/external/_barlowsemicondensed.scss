@@ -33,6 +33,16 @@ $barlow-font-path: "../../assets/fonts/Barlow_Semi_Condensed" !default;
   font-style: normal;
 }
 
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  font-display: auto;
+  src: url('#{$barlow-font-path}/BarlowSemiCondensed-SemiBold.ttf') format("truetype"); /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 // /* latin */
 // @font-face {
 //   font-family: 'Barlow_Semi_Condensed';
