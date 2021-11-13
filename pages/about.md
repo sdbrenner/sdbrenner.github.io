@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 {:refdef: style="text-align: center;"}
-![about me](/assets/img/Sam_Brenner_small.png){:style="float: left; margin-right: 1em;"}
+![about me](/assets/img/Sam_Brenner_small.png){:style="float: left"}
 {:refdef}
 
 I am a PhD student studying Oceanography at the University of Washington School of Oceanography and a research associate at the Applied Physics Lab.
