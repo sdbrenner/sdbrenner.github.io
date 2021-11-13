@@ -2,7 +2,7 @@
 layout: page
 title: about
 permalink: /about/
-feature-img: "assets/img/feature-img/main_header.png"
+# feature-img: "assets/img/feature-img/main_header.png"
 ---
 
 {:refdef: style="text-align: center;"}
