@@ -19,6 +19,6 @@ I started at UW in 2017 after completing a Master’s of Applied Science degree 
 
 I have an interest in studying dynamic processes in the near-surface Arctic ocean and within inland water bodies. My research primarily considers these processes using a combination of observations and simple theory.
 
-Click on the project links below for more information about some of the topic areas that I've explored.
+Click on the project links below for more information about some of the projects that I've been involved with.
 
 {% include portfolio.html %}
