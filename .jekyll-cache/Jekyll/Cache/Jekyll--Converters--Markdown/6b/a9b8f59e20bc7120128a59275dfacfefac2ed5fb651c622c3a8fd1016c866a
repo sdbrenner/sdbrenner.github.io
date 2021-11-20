@@ -1,9 +1,0 @@
-I"Y<!-- [Download](/assets/pdf/CV_Apr25_2021.pdf) -->
-
-<!-- I need to figure out the width situation - -->
-<object data="/assets/pdf/CV_Apr25_2021.pdf" type="application/pdf" width="2500px" height="750px">
-    <embed src="/assets/pdf/CV_Apr25_2021.pdf" type="application/pdf" />
-        <p>not supported by browser</p>
-    &lt;/embed&gt;
-</object>
-:ET
