@@ -5,9 +5,9 @@ permalink: /about/
 # feature-img: "assets/img/feature-img/main_header.png"
 ---
 
-{:refdef: style="text-align: center;"}
+
 ![about me](/assets/img/Sam_Brenner_small.png){:style="float: left"}
-{:refdef}
+
 
 I am a PhD candidate at the School of Oceanography and the Applied Physics Lab at the University of Washington.
 I work under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}.
