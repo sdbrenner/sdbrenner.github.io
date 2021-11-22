@@ -19,10 +19,14 @@ MacKinnon, J., et. al, [including **Brenner, S.**], 2021.  A warm jet in a cold 
 # posters and presentations
 {: #posters}
 
+**Brenner S.**, L. Rainville, J. Thomson, C. Lee. In-situ observations to validate (and invalidate) model parameterizations of the ice-ocean drag coefficient. Presented at: 10th IICWG-DA Workshop 2021 Oct. 26-28; virtual.
+
+Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, [Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}. Poster presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual. [doi:10.1002/essoar.10506174.1](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}
+
 **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Distributed and year-long observations of ice-ocean drag across a range of ice morphologies in the Beaufort Sea](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/665282){:target="blank"}. Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
 <!-- San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"} -->
 
-Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, [Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}. Poster presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual. [doi:10.1002/essoar.10506174.1](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}
+MacKinnon, J., et.~al, [including **Brenner, S.**]. Subduction of Pacific Summer Water into sub-surface eddies; coordinated observations from late summer Presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA.
 
 **Brenner S.**, L. Rainville, J. Thomson, J. MacKinnon, C. Lee, [Momentum fluxes across the air-ice-ocean interface in the Beaufort Sea](https://www.essoar.org/doi/pdf/10.1002/essoar.10502273.2){:target="blank"}. Poster presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"}
 
