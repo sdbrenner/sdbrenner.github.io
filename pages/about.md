@@ -21,6 +21,6 @@ I study dynamic processes in the near-surface Arctic Ocean. I am interested in h
 
 My past research work at the University of British Columbia considered standing wave patterns (seiching) in lakes.
 
-The links below include more information about some of the projects that I've been involved with.
+<!-- The links below include more information about some of the projects that I've been involved with. -->
 
 {% include portfolio.html %}
