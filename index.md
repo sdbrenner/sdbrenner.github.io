@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Samuel D. Brenner
 feature-img: "assets/img/feature-img/main_header.png"
 ---
 
