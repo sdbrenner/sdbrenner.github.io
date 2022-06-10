@@ -7,36 +7,29 @@ layout: default
     <div id="main" class="call-out"
          style="background-image: url('{{ site.header_feature_image | relative_url }}')">
         <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
-    </div>
-
-  <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
-    <div class="title-padder">
-      {% if page.hide_title %}
-        <div class="feature-image-padding"></div>
-      {% else %}
-        <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ page.title }}</h1>
         {% if page.subtitle %}
-        <h2 class="subtitle">{{ page.subtitle }}</h2>
+        <h4 class="subtitle">{{ page.subtitle }}</h4>
         {% endif %}
-      {% endif %}
     </div>
-  </header>
 
-  <section class="post-content">
-  {% if page.bootstrap %}
+<article>
+
+  <!-- <section class="post-content"> -->
+  <!-- {% if page.bootstrap %}
   <div class="bootstrap-iso">
-  {% endif %}
+  {% endif %} -->
 	{{ content }}
-  {% if page.bootstrap %}
+  <!-- {% if page.bootstrap %}
   </div>
-  {% endif %}
-  </section>
+  {% endif %} -->
+  <!-- </section> -->
 
+</article>
 
-  {% include blog.html %}
+  <!-- {% include blog.html %} -->
 
   <!-- Tag list for portfolio -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
-  {% include tags_list.html tags=tag_list %}
+  <!-- {% include tags_list.html tags=tag_list %} -->
 
 </div>
