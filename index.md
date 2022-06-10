@@ -1,5 +1,5 @@
 ---
-layout: page_alt
+layout: home
 title: samuel d. brenner
 feature-img: "assets/img/feature-img/main_header.png"
 ---
