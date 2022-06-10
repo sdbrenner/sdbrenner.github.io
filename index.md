@@ -5,9 +5,8 @@ feature-img: "assets/img/feature-img/main_header.png"
 ---
 
 
-# Samuel D. Brenner
 
-![](/assets/img/Svalbard.jpg){:style="float: right; width: 50%;"}
+![](/assets/img/Svalbard.JPG){:style="float: right; width: 50%;"}
 <!-- {:style="float: left"} -->
 
 
