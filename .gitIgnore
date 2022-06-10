@@ -1,1 +1,3 @@
 *_SS
+_site/*
+.jekyll-cache/*
