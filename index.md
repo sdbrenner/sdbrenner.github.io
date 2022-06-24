@@ -1,7 +1,7 @@
 ---
 layout: home
 # title: samuel d. brenner
-subtitle: post-doctoral scholar at Brown University
+subtitle: post-doctoral researcher at Brown University
 feature-img: "assets/img/feature-img/main_header.png"
 ---
 
