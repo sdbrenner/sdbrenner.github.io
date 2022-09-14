@@ -7,6 +7,8 @@ permalink: /publications/
 # journal articles
 {: #papers}
 
+Cooper, V., Roach, L., Thomson, J., **Brenner S.**, Smith, M., Meylan, M., Bitz, C., 2022. Wind waves in sea ice of the western Arctic and a global coupled wave-ice model. Phil. Trans. Roy. Soc. A., 380(2235), p. 19. \doi{10.1098/rsta.2021.0258}
+
 MacKinnon, J., et. al, [including **Brenner, S.**], 2021.  A warm jet in a cold ocean.  Nat. Comm., 12(1) p.12 [doi:10.1038/s41467-021-22505-5](http://doi.org/10.1038/s41467-021-22505-5){:target="blank"}.
 
 **Brenner, S.**, Rainville, L., Thomson, J. Cole, S. and Lee, C., 2021. [Comparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea](http://doi.org/10.1029/2020JC016977){:target="blank"}. J. Geophys. Res. Oceans. [doi:10.1029/2020JC016977](http://doi.org/10.1029/2020JC016977){:target="blank"}
@@ -19,6 +21,10 @@ MacKinnon, J., et. al, [including **Brenner, S.**], 2021.  A warm jet in a cold 
 # posters and presentations
 {: #posters}
 
+Sanchez-Rios A., A. Savage, **S. Brenner**, L. Crews, A. Ruiz-Angulo, J. Mackinnon, L. Rainville. Understanding T-S Structure Evolution Across Ocean Fronts: Observations of the Norwegian Atlantic Front Current Along the Mohn Ridge. Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
+
+**Brenner S.**, L. Rainville, J. Thomson, L. Crews, C. Lee. Seasonal variations of inertial velocities of sea ice and ocean surface layer in the Beaufort Sea. Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
+
 **Brenner S.**, L. Rainville, J. Thomson, C. Lee. In-situ observations to validate (and invalidate) model parameterizations of the ice-ocean drag coefficient. Presented at: 10th IICWG-DA Workshop 2021 Oct. 26-28; virtual.
 
 Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, [Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}. Poster presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual. [doi:10.1002/essoar.10506174.1](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}
@@ -26,7 +32,7 @@ Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, [Towards Validating W
 **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Distributed and year-long observations of ice-ocean drag across a range of ice morphologies in the Beaufort Sea](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/665282){:target="blank"}. Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
 <!-- San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"} -->
 
-MacKinnon, J., et.~al, [including **Brenner, S.**]. Subduction of Pacific Summer Water into sub-surface eddies; coordinated observations from late summer Presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA.
+MacKinnon, J., et. al, [including **Brenner, S.**]. Subduction of Pacific Summer Water into sub-surface eddies; coordinated observations from late summer Presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA.
 
 **Brenner S.**, L. Rainville, J. Thomson, J. MacKinnon, C. Lee, [Momentum fluxes across the air-ice-ocean interface in the Beaufort Sea](https://www.essoar.org/doi/pdf/10.1002/essoar.10502273.2){:target="blank"}. Poster presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"}
 
