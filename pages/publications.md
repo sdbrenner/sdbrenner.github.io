@@ -7,7 +7,7 @@ permalink: /publications/
 # journal articles
 {: #papers}
 
-Cooper, V., Roach, L., Thomson, J., **Brenner S.**, Smith, M., Meylan, M., Bitz, C., 2022. Wind waves in sea ice of the western Arctic and a global coupled wave-ice model. Phil. Trans. Roy. Soc. A., 380(2235), p. 19. \doi{10.1098/rsta.2021.0258}
+Cooper, V., Roach, L., Thomson, J., **Brenner S.**, Smith, M., Meylan, M., Bitz, C., 2022. Wind waves in sea ice of the western Arctic and a global coupled wave-ice model. Phil. Trans. Roy. Soc. A., 380(2235), p. 19. [doi:10.1098/rsta.2021.0258](http://doi.org/10.1098/rsta.2021.0258){:target="blank"}.
 
 MacKinnon, J., et. al, [including **Brenner, S.**], 2021.  A warm jet in a cold ocean.  Nat. Comm., 12(1) p.12 [doi:10.1038/s41467-021-22505-5](http://doi.org/10.1038/s41467-021-22505-5){:target="blank"}.
 
@@ -45,6 +45,9 @@ MacKinnon, J., et. al, [including **Brenner, S.**]. Subduction of Pacific Summer
 
 
 # other
+
+**Brenner, S.**, 2022. [The role of sea ice in mediating atmosphere-ice-ocean momentum transfer](http://hdl.handle.net/1773/49108){:target="blank"}. PhD dissertation, University of Washington. [http://hdl.handle.net/1773/49108](http://hdl.handle.net/1773/49108){:target="blank"}
+
 
 **Brenner, S.**, 2017. [The free oscillatory response of fjord-type multi-armed lakes](/assets/ubc_2017_september_brenner_samuel.pdf){:target="blank"}. Masters thesis, University of British Columbia. [doi:10.14288/1.0353196](https://doi.org/10.14288/1.0353196){:target="blank"}
 
