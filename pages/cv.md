@@ -17,8 +17,8 @@ Download a copy of my CV: [*[here]*](/assets/pdf/Brenner_CV_2022-10-25.pdf)
 </object> -->
 
 
-<object data="/assets/pdf/Brenner_CV_2022-06-10.pdf" type="application/pdf" width="80%" height="750px">
-    <embed src="/assets/pdf/Brenner_CV_2022-06-10.pdf" type="application/pdf">
+<object data="/assets/pdf/Brenner_CV_2022-10-25.pdf" type="application/pdf" width="80%" height="750px">
+    <embed src="/assets/pdf/Brenner_CV_2022-10-25.pdf" type="application/pdf">
         <p>embedded viewer not supported by this browser</p>
     </embed>    
 </object>
