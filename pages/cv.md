@@ -7,7 +7,7 @@ color: rgb(6,130,207)
 # ]
 ---
 
-Download a copy of my CV: [*[here]*](/assets/pdf/Brenner_CV_2022-06-10.pdf)
+Download a copy of my CV: [*[here]*](/assets/pdf/Brenner_CV_2022-10-25.pdf)
 
 <!-- I need to figure out the width situation - -->
 <!-- <object data="/assets/pdf/CV_Apr29_2021.pdf" type="application/pdf" width="2500px" height="750px">
