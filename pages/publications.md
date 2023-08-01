@@ -7,19 +7,35 @@ permalink: /publications/
 # journal articles
 {: #papers}
 
+<!-- **Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. [*Submitted*].
+Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow coupling in the generation of ice-ocean boundary layer turbulence.
+ -->
+**Brenner, S.**, Rainville, L., Thomson, J., Crews, L., and Lee, C., 2023. Wind-driven motions of sea ice and the ocean surface mixed layer in the Western Arctic. J.~Phys.~Oceanogr., 53(7), 1787–1804. [doi:10.1175/JPO-D-22-0112.1](http://doi.org/10.1175/JPO-D-22-0112.1){:target="blank"}.
+
+**Brenner, S.**, Thomson, J., Rainville, L., Torres, D., Doble, M., Wilkinson, J., and Lee, C., 2023. Acoustic sensing of ocean mixed layer depth and temperature from uplooking ADCPs. J.~Atmos.~Oceanic~Technol., 40(1), 53–64. [doi:10.1175/JTECH-D-22-0055.1](http://doi.org/10.1175/JTECH-D-22-0055.1){:target="blank"}.
+
 Cooper, V., Roach, L., Thomson, J., **Brenner S.**, Smith, M., Meylan, M., Bitz, C., 2022. Wind waves in sea ice of the western Arctic and a global coupled wave-ice model. Phil. Trans. Roy. Soc. A., 380(2235), p. 19. [doi:10.1098/rsta.2021.0258](http://doi.org/10.1098/rsta.2021.0258){:target="blank"}.
 
 MacKinnon, J., et. al, [including **Brenner, S.**], 2021.  A warm jet in a cold ocean.  Nat. Comm., 12(1) p.12 [doi:10.1038/s41467-021-22505-5](http://doi.org/10.1038/s41467-021-22505-5){:target="blank"}.
 
-**Brenner, S.**, Rainville, L., Thomson, J. Cole, S. and Lee, C., 2021. [Comparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea](http://doi.org/10.1029/2020JC016977){:target="blank"}. J. Geophys. Res. Oceans. [doi:10.1029/2020JC016977](http://doi.org/10.1029/2020JC016977){:target="blank"}
+**Brenner, S.**, Rainville, L., Thomson, J. Cole, S. and Lee, C., 2021. Comparing observations and parameterizations of ice-ocean drag through an annual cycle across the Beaufort Sea. J. Geophys. Res. Oceans. [doi:10.1029/2020JC016977](http://doi.org/10.1029/2020JC016977){:target="blank"}
 
-**Brenner, S.**, Rainville, L., Thomson, J. and Lee, C., 2020. [The evolution of a shallow front in the Arctic marginal ice zone](http://doi.org/10.1525/elementa.413){:target="blank"}. Elem. Sci. Anth., 8(1), p.17. [doi:10.1525/elementa.413/](http://doi.org/10.1525/elementa.413){:target="blank"}
+**Brenner, S.**, Rainville, L., Thomson, J. and Lee, C., 2020. The evolution of a shallow front in the Arctic marginal ice zone. Elem. Sci. Anth., 8(1), p.17. [doi:10.1525/elementa.413/](http://doi.org/10.1525/elementa.413){:target="blank"}
 
-**Brenner, S. D.**, and B. E. Laval. 2018. [Seiche modes in multi-armed lakes](https://doi.org/10.1002/lno.11001){:target="blank"}. Limnol. Oceanogr. 63: 2717-2726
+**Brenner, S. D.**, and B. E. Laval. 2018. Seiche modes in multi-armed lakes. Limnol. Oceanogr. 63: 2717-2726
 [doi:10.1002/lno.11001](https://doi.org/10.1002/lno.11001){:target="blank"}
 
 # posters and presentations
 {: #posters}
+
+Rosenblum, E., D. Arends, D. Babb, **S. Brenner**, A. Cabaj, S. DeAbreu, C. Horvat, D. Kelley, M. McCrystall, J. Olsthoorn, J. Stroeve.
+Ice-ocean boundary layer experiments in a mini-Arctic Ocean. Poster presented at: ArcticNet Annual Scientific Meeting; 2022 Dec. 4–8; Toronto, Canada.
+
+**Brenner S.**
+The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. Presented at: Physical Oceanography Doctoral Symposium; 2022 Oct. 17--21; Kona, HI.
+
+Thomson J., S. Wahlgren, V. Cooper, **S. Brenner**, M. Smith, S. Swart, L. Biddle, C. Bitz. Waves observed far (>100 km) within sea ice. Poster presented at: Wind waves In the Earth System (WISE) Workshop; 2022 Apr. 25–29; Brest, France.
+
 
 Sanchez-Rios A., A. Savage, **S. Brenner**, L. Crews, A. Ruiz-Angulo, J. Mackinnon, L. Rainville. Understanding T-S Structure Evolution Across Ocean Fronts: Observations of the Norwegian Atlantic Front Current Along the Mohn Ridge. Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
 
