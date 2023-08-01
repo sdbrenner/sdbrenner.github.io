@@ -12,7 +12,7 @@ Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow co
  -->
 **Brenner, S.**, Rainville, L., Thomson, J., Crews, L., and Lee, C., 2023. Wind-driven motions of sea ice and the ocean surface mixed layer in the Western Arctic. J.~Phys.~Oceanogr., 53(7), 1787–1804. [doi:10.1175/JPO-D-22-0112.1](http://doi.org/10.1175/JPO-D-22-0112.1){:target="blank"}.
 
-**Brenner, S.**, Thomson, J., Rainville, L., Torres, D., Doble, M., Wilkinson, J., and Lee, C., 2023. Acoustic sensing of ocean mixed layer depth and temperature from uplooking ADCPs. J.~Atmos.~Oceanic~Technol., 40(1), 53–64. [doi:10.1175/JTECH-D-22-0055.1](http://doi.org/10.1175/JTECH-D-22-0055.1){:target="blank"}.
+**Brenner, S.**, Thomson, J., Rainville, L., Torres, D., Doble, M., Wilkinson, J., and Lee, C., 2023. Acoustic sensing of ocean mixed layer depth and temperature from uplooking ADCPs. J. Atmos. Oceanic Technol., 40(1), 53–64. [doi:10.1175/JTECH-D-22-0055.1](http://doi.org/10.1175/JTECH-D-22-0055.1){:target="blank"}.
 
 Cooper, V., Roach, L., Thomson, J., **Brenner S.**, Smith, M., Meylan, M., Bitz, C., 2022. Wind waves in sea ice of the western Arctic and a global coupled wave-ice model. Phil. Trans. Roy. Soc. A., 380(2235), p. 19. [doi:10.1098/rsta.2021.0258](http://doi.org/10.1098/rsta.2021.0258){:target="blank"}.
 
