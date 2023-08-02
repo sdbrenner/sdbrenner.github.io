@@ -2,7 +2,7 @@
 layout: home
 # title: samuel d. brenner
 subtitle: post-doctoral researcher at Brown University
-feature-img: "assets/img/feature-img/IMG_2041.png" 
+feature-img: "assets/img/feature-img/IMG_2041.jpg" 
 ---
 
 **My research uses a combination of *in situ* measurements and idealized modelling to understand the dynamic
