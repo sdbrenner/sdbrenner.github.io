@@ -2,7 +2,7 @@
 layout: home
 # title: samuel d. brenner
 subtitle: post-doctoral researcher at Brown University
-feature-img: "assets/img/feature-img/IMG_2041.jpg" 
+feature-img: "assets/img/feature-img/main_header.png"
 ---
 
 **My research uses a combination of *in situ* measurements and idealized modelling to understand the dynamic
@@ -21,7 +21,6 @@ I am a postdoc at Brown University, working in the [*Antipodal Oceanography Grou
 I earned my PhD in 2022 from the School of Oceanography and the Applied Physics Lab at the University of Washington under the joint supervision of [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc){:target="blank"} and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim){:target="blank"}. Previous to that, I completed a Master’s of Applied Science degree (MASc) in Civil Engineering at the University of British Columbia in 2017, where I worked with [Bernard Laval](https://www.civil.ubc.ca/faculty/bernard-laval){:target="blank"}.
 
 
-<!-- ## my reseach
+## my reseach
 
 ###
- -->
