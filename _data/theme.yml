@@ -41,11 +41,8 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
+  - name: "Georama"
     weights: "400,400i,600,600i"
-# google_fonts:
-#   - name: "Tajawal"
-#     weights: "400,400i,600,600i"
 
 
 # Link to specific internal pages in the navigation.
