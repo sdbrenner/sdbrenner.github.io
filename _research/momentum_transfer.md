@@ -9,7 +9,7 @@ thumbnail: /assets/images/1D_momentum_balance.png
 # date: 01-06-2019    
 ---
 
-* this page under construction *
+*this page under construction*
 
 <!-- 
 In polar oceans, sea ice mediates air-sea exchanges of momentum and energy.
