@@ -4,7 +4,7 @@ layout: page
 actions:
   - label: "Download PDF"
     icon: pdf
-    url: "../assets/pdf/Brenner_CV.pdf"
+    url: "/assets/pdf/Brenner_CV.pdf"
 ---
 
 
