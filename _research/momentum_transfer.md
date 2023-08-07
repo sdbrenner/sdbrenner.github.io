@@ -9,6 +9,9 @@ thumbnail: /assets/images/1D_momentum_balance.png
 # date: 01-06-2019    
 ---
 
+* this page under construction *
+
+<!-- 
 In polar oceans, sea ice mediates air-sea exchanges of momentum and energy.
 
 
@@ -51,7 +54,7 @@ Wave-ice interactions are a subject of much active research within the community
 
 The SODA mooring array made measurements of surface waves, which Cooper ([2022](#Cooper2022)) compared to model results to test existing model parameterizations of wave damping by ice. 
 
-
+ -->
 
 
 
