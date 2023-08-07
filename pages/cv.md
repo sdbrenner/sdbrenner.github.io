@@ -8,8 +8,4 @@ actions:
 ---
 
 
-<object data="/assets/pdf/Brenner_CV.pdf" type="application/pdf" width="80%" height="750px">
-    <embed src="/assets/pdf/Brenner_CV.pdf" type="application/pdf">
-        <p>embedded viewer not supported by this browser</p>
-    </embed>    
-</object>
+<object data="/assets/pdf/Brenner_CV.pdf" type="application/pdf" width="90%" height="850px"></object>
