@@ -1,0 +1,74 @@
+<header class="intro">
+    <!-- Load jQuery -->
+  <!-- <script src="/assets/javascripts/vendor/jquery/jquery-3.3.1.min.js" type="text/javascript"></script> -->
+
+  {% if page.image %}
+    <!-- If a path is specified, use it -->
+    {% if page.image != 'random' %}
+      {% assign intro_image = page.image.path | default: page.image | relative_url | escape %}
+      <div class="intro-image">
+        <img src="{{ intro_image }}" alt="{{ page.title }}">
+      </div>
+    <!-- If 'random' is specified, then choose a random header from the folder -->  
+    {% elsif page.image == 'random' %}
+      <!-- make empty image -->
+      <div class="intro-image">
+        <img id="hdr_image" alt="{{ page.title }}">
+      </div>
+      <!-- Make a list of header images -->
+      <!-- init the list -->
+      {% assign header_images = "" | split: ',' %}
+      <!-- loop and add -->
+      {% for image in site.static_files %}
+        {% if image.path contains '/assets/images/headers/' %}
+          <!-- add image -->
+          {% assign header_images = header_images | push: image.path %}
+        {% endif %}
+      {% endfor %}
+      <!--
+        Javascript and Liquid code to gather a list of all header images
+        in /assets/images/headers/
+      -->
+      <script type="text/javascript">
+        // get images from ``header_images`` array to js var
+        var header_images = [{% for image in header_images %}"{{ site.baseurl }}{{ image }}",{% endfor %}];
+        var randomIndex = Math.floor(Math.random() * header_images.length);
+        // and the winning ``header_image`` is...
+        var header_image = header_images[randomIndex]
+        // update src to existing header image
+          document.getElementById("hdr_image").src = header_image
+      </script>  
+    {% endif %}  
+  {% endif %}
+
+
+  <div class="inner">
+    <div class="intro-text">
+      <h1 id="page-title" class="intro-title">{{ page.alt_title | default: page.title | default: site.title | markdownify | strip_html }}</h1>
+      {% if page.sub_title %}
+        <p class="intro-subtitle">{{ page.sub_title | markdownify | strip_html }}</p>
+      {% endif %}
+
+      {% if page.date %}
+        {% include author %}
+        <p class="entry-meta">
+          {% if author_name %}<span class="byline-item">{{ author_name | prepend: 'by ' }}</span>{% endif %}<span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>{% if page.read_time %} <span class="byline-item"><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</span>{% endif %}
+        </p>
+      {% endif %}
+
+      {% if page.introduction %}
+        <div class="intro-more">
+          {{ page.introduction | markdownify }}
+        </div>
+      {% endif %}
+
+      {% if page.actions %}
+        <ul class="intro-actions">
+          {% for action in page.actions %}
+            <li><a href="{{ action.url }}" class="btn">{% if action.icon %}<span class="icon">{% include {{ action.icon | prepend: 'icon-' | append: '.svg' }} %}</span>{% endif %}{{ action.label }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+</header>
