@@ -19,7 +19,7 @@ As a result, the spatial heterogeniety in surface properities that is an inheren
 Yet, there is an increasing awareness that sea ice melt rates and atmosphere/ocean boundary layer dynamics are impacted by floe-scale effects.
 
 Explicit representation of sea ice floes—as opposed to traditional continuum models—introduces constraints on the ice velocity field, as the floes move as solid bodies.
-Because ice-ocean fluxes are driven by differences between sea ice and ocean velocity, these velocity constraints can impact the [transfers of momentum](/research/momentum-transfer) and energy across the atmosphere-ice-ocean boundary in a way that depends on the relative horizontal scales of floes and the scales of ocean variablity ([fig. 1](#fig1)).
+Because ice-ocean fluxes are driven by differences between sea ice and ocean velocity, these velocity constraints can impact the [transfers of momentum](/research/momentum_transfer) and energy across the atmosphere-ice-ocean boundary in a way that depends on the relative horizontal scales of floes and the scales of ocean variablity ([fig. 1](#fig1)).
 
 
 <figure class="align-center">

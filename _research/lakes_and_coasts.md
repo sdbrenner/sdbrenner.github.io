@@ -27,7 +27,7 @@ Through my PhD, I was an active member of the [Environmental Fluid Mechanics](ht
 
 
 <!-- I do not have any ongoing projects related to inland and coastal waters, but maintain an interest in these subjects  -->
-In the future, I would be happy to bridge some of my ongoing research in ice-ocean interaction with these topics, and welcome ideas for collaborations about, e.g., ice-covered lakes or ice-cean interactions coastal settings.
+In the future, I would be happy to bridge some of my ongoing research in ice-ocean interaction with these topics, and welcome ideas for collaborations about, e.g., ice-covered lakes or ice-ocean interactions coastal settings.
 
 
 
