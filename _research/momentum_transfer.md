@@ -35,13 +35,15 @@ By analyzing why mismatches occurred, I made recommendations for future iteratio
 I am interested in extending these results to other study regions and timeframes using extant mooring records.
 
 <figure class="align-center" style="max-width:75%">
-  <img src="">
-  <figcaption>fig.  
+  <img src="/assets/images/drag_coefficients">
+  <figcaption>fig. 1
     (Reproduced from 
     <a href="#Brenner2021"> 
       Brenner et al., 2021
     </a>):
-    words words words
+    Timeseries of ice-ocean drag coefficients from north-to-south: (a) SODA-C, (b) SODA-B, and (c) SODA-A.
+    In each panel, points with error-bars show "observed" values of the ice-ocean drag coefficient, while lines correspond to the different variations of parameterization schemes. 
+    The horizontal gray dashed line shows the "traditional" drag coefficient value, for comparison.
   </figcaption> 
 </figure>{: #fig1}
 
