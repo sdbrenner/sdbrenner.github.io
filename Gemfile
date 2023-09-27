@@ -37,3 +37,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
+
+# github identified potential vulerability: 
+# "Active Support Possibly Discloses Locally Encrypted Files #2"
+# https://github.com/sdbrenner/sdbrenner.github.io/security/dependabot/2
+gem "activesupport", ">= 7.0.7.1"
