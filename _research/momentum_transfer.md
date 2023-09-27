@@ -35,7 +35,7 @@ By analyzing why mismatches occurred, I made recommendations for future iteratio
 I am interested in extending these results to other study regions and timeframes using extant mooring records.
 
 <figure class="align-center" style="max-width:75%">
-  <img src="/assets/images/drag_coefficients">
+  <img src="/assets/images/drag_timeseries.png">
   <figcaption>fig. 1
     (Reproduced from 
     <a href="#Brenner2021"> 
