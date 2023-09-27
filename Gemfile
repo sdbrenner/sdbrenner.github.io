@@ -42,3 +42,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # "Active Support Possibly Discloses Locally Encrypted Files #2"
 # https://github.com/sdbrenner/sdbrenner.github.io/security/dependabot/2
 gem "activesupport", ">= 7.0.7.1"
+gem "webrick", "~> 1.8"
