@@ -44,8 +44,7 @@ Through these simlulations, I am investigating scale-dependent impacts on ice-oc
 
 #### Related publications
 
-* {: #Brenner2023}**Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. [*Submitted*].
-Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow coupling in the generation of ice-ocean boundary layer turbulence. [Preprint doi:10.22541/essoar.169111382.28513795/v1](https://doi.org/10.22541/essoar.169111382.28513795/v1){:target="blank"}.
-
+* {: #Brenner2023}**Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. 2023.
+Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow coupling in the generation of ice-ocean boundary layer turbulence. Geophys.~Res.~Lett., 50, e2023GL105703. [doi:10.1029/2023GL105703](https://doi.org/10.1029/2023GL105703){:target="blank"}.
 
 <!-- Changes in Arctic sea ice are especially pronounced by the expansion of MIZs; however, these transition regions remain poorly understood. -->

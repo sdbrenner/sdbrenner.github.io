@@ -24,8 +24,8 @@ actions:
 ## journal articles
 {: #papers}
 
-1. **Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. [*Submitted*].
-Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow coupling in the generation of ice-ocean boundary layer turbulence. [Preprint doi:10.22541/essoar.169111382.28513795/v1](https://doi.org/10.22541/essoar.169111382.28513795/v1){:target="blank"}.
+1. **Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. 2023.
+Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow coupling in the generation of ice-ocean boundary layer turbulence. Geophys.~Res.~Lett., 50, e2023GL105703. [doi:10.1029/2023GL105703](https://doi.org/10.1029/2023GL105703){:target="blank"}.
 
 1. **Brenner, S.**, Rainville, L., Thomson, J., Crews, L., and Lee, C., 2023. Wind-driven motions of sea ice and the ocean surface mixed layer in the Western Arctic. J. Phys. Oceanogr., 53(7), 1787–1804. [doi:10.1175/JPO-D-22-0112.1](http://doi.org/10.1175/JPO-D-22-0112.1){:target="blank"}.
 
