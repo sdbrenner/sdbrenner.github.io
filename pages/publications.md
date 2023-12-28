@@ -49,6 +49,14 @@ Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow co
 
 #### presentations
 
+<!-- * **Brenner, S.**, C. Horvat, P. Hall, A. Lo Piccolo, B. Fox-Kemper, S. Labbé, V. Dansereau
+Floe-scale effects on ice-ocean boundary layer turbulence.
+To be presented at: Ocean Sciences Meeting; 2024 Feb. 18-23; New Orleans, LA. -->
+
+* **Brenner, S.**, C. Horvat, P. Hall, A. Lo Piccolo, B. Fox-Kemper, S. Labbé, V. Dansereau
+The dual roles of floe-floe interactions and floe-flow interactions on ice-ocean coupling and surface fluxes.
+**Invited presentation** at: AGU Fall Meeting 2023 Dec. 11-15; San Francisco, CA.
+
 * **Brenner S.**
 The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. Presented at: Physical Oceanography Doctoral Symposium; 2022 Oct. 17--21; Kona, HI.
 
