@@ -57,6 +57,10 @@ To be presented at: Ocean Sciences Meeting; 2024 Feb. 18-23; New Orleans, LA. --
 The dual roles of floe-floe interactions and floe-flow interactions on ice-ocean coupling and surface fluxes.
 **Invited presentation** at: AGU Fall Meeting 2023 Dec. 11-15; San Francisco, CA.
 
+* B. Laval, **S. Brenner**, J. Shore, S. Vagle. 
+The influence of geometry on the free barotropic seiche response of two three-armed, fjord-type, lakes.
+Presented at: AGU Fall Meeting 2023 Dec. 11-15; San Francisco, CA.
+
 * **Brenner S.**
 The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. Presented at: Physical Oceanography Doctoral Symposium; 2022 Oct. 17--21; Kona, HI.
 
