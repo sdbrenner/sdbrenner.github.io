@@ -24,7 +24,9 @@ actions:
 ## journal articles
 {: #papers}
 
-1. Blanchard-Wrigglesworth^†, E., **Brenner, S.**^†, Webster, M., Horvat C., Foss, Ø., Bitz, C. 2024. Model biases in simulating extreme sea ice loss associated with the record January 2022 Arctic cyclone. J. Geophys. Res. Oceans., 129, e2024JC021127. [doi:10.1029/2024JC021127](https://doi.org/10.1029/2024JC021127){:target="blank"}. (^† indicates co-first authors)
+1. Blanchard-Wrigglesworth, E.<span style="color: gray"><sup>**†**</sup></span>, **Brenner, S.**<span style="color: gray"><sup>**†**</sup></span>, Webster, M., Horvat C., Foss, Ø., Bitz, C. 2024. Model biases in simulating extreme sea ice loss associated with the record January 2022 Arctic cyclone. J. Geophys. Res. Oceans., 129, e2024JC021127. [doi:10.1029/2024JC021127](https://doi.org/10.1029/2024JC021127){:target="blank"}. 
+\
+<span style="color: gray">(<sup>**†**</sup> indicates co-first authors)</span>
 
 
 1. **Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. 2023.
