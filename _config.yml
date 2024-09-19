@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: s.d.brenner
-email: sdbrenner@brown.edu
+email: sbrenner@caltech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Samuel Brenner research | physical oceanography | sea ice | ice-ocean interactions | ice-ocean momentum flux | floe-scale dynamics
 baseurl: "" # the subpath of your site, e.g. /blog

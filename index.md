@@ -2,7 +2,7 @@
 title: home
 layout: home
 alt_title: "samuel d. brenner"
-sub_title: "post-doctoral research associate at Brown University"
+sub_title: "post-doctoral research associate at Caltech"
 # image: /assets/images/headers/arctic_sunset.jpg
 image: 'random'
 introduction: 
