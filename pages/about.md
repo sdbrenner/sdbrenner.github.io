@@ -5,8 +5,7 @@ layout: about
 
 I am a physical oceanographer focused on understanding how sea ice mediates upper ocean dynamics and surface fluxes in the face of the changing climate, and the feedbacks this may generate within the polar ocean-climate system.
 
-<!-- I currently work as  -->
-Starting in September 2024, I will be working as a post-doctoral researcher at Caltech, under the supervision of [Andy Thompson](https://web.gps.caltech.edu/~andrewt/).
+I currently work as a post-doctoral researcher at Caltech, under the supervision of [Andy Thompson](https://web.gps.caltech.edu/~andrewt/).
 Prior to my work at Caltech, I worked on similar topics as a postdoc at Brown University with [Chris Horvat](https://polar-oceans.com/), and as a PhD student at the University of Washington with [Luc Rainville](http://apl.uw.edu/people/profile.php?last_name=Rainville&first_name=Luc) and [Jim Thomson](http://apl.uw.edu/people/profile.php?last_name=Thomson&first_name=Jim).
 
 
