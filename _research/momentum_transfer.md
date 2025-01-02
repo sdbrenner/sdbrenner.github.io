@@ -77,14 +77,16 @@ However, these effects are timescale-dependent: while ice damped high-frequency 
 #### Surface gravity waves
 {: #waves}
 
-In the open ocean, atmosphere-ocean momentum transfer is mediated by surface gravity waves. 
+In the open ocean, atmosphere-ocean momentum transfer and upper ocean mixing are mediated by surface gravity waves. 
 Within the marginal ice zone (MIZ), that is disrupted as the ice damps the waves.
 Wave-ice interactions are a subject of much active research within the community.
 
-With the SODA mooring array we also made measurements of surface waves, which Cooper ([2022](#Cooper2022)) compared to model results to test existing model parameterizations of wave damping by ice. 
-The wave characteristics measured by the moorings showed a preponderance small, locally generated waves can existing within leads and gaps between sea ice flows—even up to 100 km within the sea ice edge. 
-These local waves were absent from model results using standard parameterizations, but may be an important part of sea ice evolution.
-As waves provide surface roughness in the open ocean, these results are also important to bulk calculations of net atmosphere-ocean momentum flux.
+With the SODA mooring array we also made measurements of surface waves, which Cooper ([2022](#Cooper2022)) compared to Earth-system model results to test existing model parameterizations of wave damping by ice. 
+The wave characteristics measured by the moorings showed a preponderance of small, locally-generated waves existing within leads and gaps between sea ice flows—even up to 100 km within the sea ice edge. 
+These local waves were absent from Emodel results using standard parameterizations, but may be an important part of sea ice and upper-ocean evolution.
+Using a wave model, [SWAN](https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/sections/environmental-fluid-mechanics/research/swan), I was able to show that the surface geometry — dictated by the combination of sea ice concentration *and* floe size distribution — set constraints on the available open-water fetch available for wind-wave growth, proposing methods for estimate the properties of these locally-generated waves ([Brenner & Horvat, 2024](#Brenner2024)).
+
+<!-- As waves provide surface roughness in the open ocean, these results are also important to bulk calculations of net atmosphere-ocean momentum flux. -->
 
 I continue to be interested in interactions between sea ice and surface gravity waves.
 In particular, I wonder how the combination of locally generated waves and ice-attenuated swell might impact ice-ocean momentum/energy fluxes in the marginal ice zone, and how to acount for those effects in "flux-averaging" methods of surface stress calculation. 
@@ -93,6 +95,8 @@ In particular, I wonder how the combination of locally generated waves and ice-a
 
 
 #### Related publications
+
+* {: #Brenner2024}**Brenner, S.**, Horvat, C., 2024. Scaling simulations of local wind-waves amid sea ice floes. J. Geophys. Res. Oceans., 129, e2024JC021629. [doi:10.1029/2024JC021629](https://doi.org/10.1029/2024JC021629){:target="blank"}. 
 
 * {: #Brenner2023}**Brenner, S.**, Rainville, L., Thomson, J., Crews, L., and Lee, C., 2023. Wind-driven motions of sea ice and the ocean surface mixed layer in the Western Arctic. J. Phys. Oceanogr., 53(7), 1787–1804. [doi:10.1175/JPO-D-22-0112.1](http://doi.org/10.1175/JPO-D-22-0112.1){:target="blank"}.
 

@@ -24,12 +24,15 @@ actions:
 ## journal articles
 {: #papers}
 
-1. Blanchard-Wrigglesworth, E.<span style="color: gray"><sup>**†**</sup></span>, **Brenner, S.**<span style="color: gray"><sup>**†**</sup></span>, Webster, M., Horvat C., Foss, Ø., Bitz, C. 2024. Model biases in simulating extreme sea ice loss associated with the record January 2022 Arctic cyclone. J. Geophys. Res. Oceans., 129, e2024JC021127. [doi:10.1029/2024JC021127](https://doi.org/10.1029/2024JC021127){:target="blank"}. 
+1. Thomson, J., Yang, J., Taylor, R., Rainville, E., Zeiden, K.,  Rainville, L., **Brenner, S.**, Ballard, M., Cronin, M., 2024. Surface wave development and ambient sound in the ocean.  J. Geophys. Res. Oceans., 129,e2024JC021921. [doi:10.1029/2024JC021921](https://doi.org/10.1029/2024JC021921){:target="blank"}. 
+
+1. **Brenner, S.**, Horvat, C., 2024. Scaling simulations of local wind-waves amid sea ice floes. J. Geophys. Res. Oceans., 129, e2024JC021629. [doi:10.1029/2024JC021629](https://doi.org/10.1029/2024JC021629){:target="blank"}. 
+
+1. Blanchard-Wrigglesworth, E.<span style="color: gray"><sup>**†**</sup></span>, **Brenner, S.**<span style="color: gray"><sup>**†**</sup></span>, Webster, M., Horvat C., Foss, Ø., Bitz, C., 2024. Model biases in simulating extreme sea ice loss associated with the record January 2022 Arctic cyclone. J. Geophys. Res. Oceans., 129, e2024JC021127. [doi:10.1029/2024JC021127](https://doi.org/10.1029/2024JC021127){:target="blank"}. 
 \
 <span style="color: gray">(<sup>**†**</sup> indicates co-first authors)</span>
 
-
-1. **Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V. 2023.
+1. **Brenner, S.**, Horvat, C., Hall, P., Lo Piccolo, A., Fox-Kemper, B. Labbé, S., Dansereau, V., 2023.
 Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow coupling in the generation of ice-ocean boundary layer turbulence. Geophys. Res. Lett., 50, e2023GL105703. [doi:10.1029/2023GL105703](https://doi.org/10.1029/2023GL105703){:target="blank"}.
 
 1. **Brenner, S.**, Rainville, L., Thomson, J., Crews, L., and Lee, C., 2023. Wind-driven motions of sea ice and the ocean surface mixed layer in the Western Arctic. J. Phys. Oceanogr., 53(7), 1787–1804. [doi:10.1175/JPO-D-22-0112.1](http://doi.org/10.1175/JPO-D-22-0112.1){:target="blank"}.
