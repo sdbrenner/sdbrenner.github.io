@@ -20,12 +20,12 @@ actions:
 [other](#other) 
 -->
 
-## Theses
+## theses
 
-* **Brenner, S.**, 2022. The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. PhD dissertation, University of Washington. [http://hdl.handle.net/1773/49108](http://hdl.handle.net/1773/49108){:target="blank"}
+* Brenner, S., 2022. The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. PhD dissertation, University of Washington. [http://hdl.handle.net/1773/49108](http://hdl.handle.net/1773/49108){:target="blank"}
 
 
-* **Brenner, S.**, 2017. The free oscillatory response of fjord-type multi-armed lakes. Masters thesis, University of British Columbia. [doi:10.14288/1.0353196](https://doi.org/10.14288/1.0353196){:target="blank"}
+* Brenner, S., 2017. The free oscillatory response of fjord-type multi-armed lakes. Masters thesis, University of British Columbia. [doi:10.14288/1.0353196](https://doi.org/10.14288/1.0353196){:target="blank"}
 
  <!-- [back to top](#top) -->
 
@@ -68,6 +68,20 @@ Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow co
 
 #### presentations
 
+
+* Foss, Ø., M. Granskog, **S. Brenner**, E. Salganik, J. Landy, A. Sundfjord
+Seasonal arrival of older, thicker sea ice in in-situ observations from the northwestern Barents Sea
+Presented at: European Polar Science Week; 2024 Sep.~3--6; Copenhagen, Denmark
+
+* Hall, P., C. Horvat, B. Fox-Kemper, **S. Brenner**, A Altuntas.
+A Novel Process Model of Ocean-Sea-Ice Interaction using CESM
+Presented at: EGU General Assembly; 2024 Apr.~14--19; Vienna, Austria
+
+* Crews, L., C. Lee, L. Rainville, **S. Brenner**.
+Sea ice lead opening increases ice and ocean inertial oscillations during a Beaufort Sea winter storm
+L Crews, C Lee, L Rainville, S Brenner
+Presented at: Ocean Sciences Meeting; 2024 Feb. 18-23; New Orleans, LA. 
+
 * **Brenner, S.**, C. Horvat, P. Hall, A. Lo Piccolo, B. Fox-Kemper, S. Labbé, V. Dansereau
 Floe-scale effects on ice-ocean boundary layer turbulence.
 Presented at: Ocean Sciences Meeting; 2024 Feb. 18-23; New Orleans, LA. 
@@ -81,15 +95,20 @@ The influence of geometry on the free barotropic seiche response of two three-ar
 Presented at: AGU Fall Meeting 2023 Dec. 11-15; San Francisco, CA.
 
 * **Brenner S.**
-The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. Presented at: Physical Oceanography Doctoral Symposium; 2022 Oct. 17--21; Kona, HI.
+The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. 
+Presented at: Physical Oceanography Doctoral Symposium; 2022 Oct. 17--21; Kona, HI.
 
-* Sanchez-Rios A., A. Savage, **S. Brenner**, L. Crews, A. Ruiz-Angulo, J. Mackinnon, L. Rainville. Understanding T-S Structure Evolution Across Ocean Fronts: Observations of the Norwegian Atlantic Front Current Along the Mohn Ridge. Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
+* Sanchez-Rios A., A. Savage, **S. Brenner**, L. Crews, A. Ruiz-Angulo, J. Mackinnon, L. Rainville. Understanding T-S Structure Evolution Across Ocean Fronts: Observations of the Norwegian Atlantic Front Current Along the Mohn Ridge. 
+Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
 
-* **Brenner S.**, L. Rainville, J. Thomson, L. Crews, C. Lee. Seasonal variations of inertial velocities of sea ice and ocean surface layer in the Beaufort Sea. Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
+* **Brenner S.**, L. Rainville, J. Thomson, L. Crews, C. Lee. Seasonal variations of inertial velocities of sea ice and ocean surface layer in the Beaufort Sea. 
+Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee. In-situ observations to validate (and invalidate) model parameterizations of the ice-ocean drag coefficient. Presented at: 10th IICWG-DA Workshop 2021 Oct. 26-28; virtual.
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee. In-situ observations to validate (and invalidate) model parameterizations of the ice-ocean drag coefficient. 
+Presented at: 10th IICWG-DA Workshop 2021 Oct. 26-28; virtual.
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Distributed and year-long observations of ice-ocean drag across a range of ice morphologies in the Beaufort Sea](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/665282){:target="blank"}. Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Distributed and year-long observations of ice-ocean drag across a range of ice morphologies in the Beaufort Sea](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/665282){:target="blank"}. 
+Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
 <!-- San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"} -->
 
 * MacKinnon, J., et. al, [including **Brenner, S.**]. Subduction of Pacific Summer Water into sub-surface eddies; coordinated observations from late summer Presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA.
@@ -97,24 +116,31 @@ The role of sea ice in mediating atmosphere-ice-ocean momentum transfer. Present
 
 #### posters
 
-* **Brenner, S.** & Thompson, A. 
+<!-- * **Brenner, S.** & Thompson, A. 
 Floe-scale variability in upper ocean energy pathways
-To be presented at: 2nd CAMAS Workshop and Early-Career School; 2025 Apr. 15-18; Seattle, WA.
+To be presented at: 2nd CAMAS Workshop and Early-Career School; 2025 Apr. 15-18; Seattle, WA. -->
 
 * Rosenblum, E., D. Arends, D. Babb, **S. Brenner**, A. Cabaj, S. DeAbreu, C. Horvat, D. Kelley, M. McCrystall, J. Olsthoorn, J. Stroeve.
-Ice-ocean boundary layer experiments in a mini-Arctic Ocean. Poster presented at: ArcticNet Annual Scientific Meeting; 2022 Dec. 4–8; Toronto, Canada.
+Ice-ocean boundary layer experiments in a mini-Arctic Ocean. 
+Poster presented at: ArcticNet Annual Scientific Meeting; 2022 Dec. 4–8; Toronto, Canada.
 
-* Thomson J., S. Wahlgren, V. Cooper, **S. Brenner**, M. Smith, S. Swart, L. Biddle, C. Bitz. Waves observed far (>100 km) within sea ice. Poster presented at: Wind waves In the Earth System (WISE) Workshop; 2022 Apr. 25–29; Brest, France.
+* Thomson J., S. Wahlgren, V. Cooper, **S. Brenner**, M. Smith, S. Swart, L. Biddle, C. Bitz. Waves observed far (>100 km) within sea ice. 
+Poster presented at: Wind waves In the Earth System (WISE) Workshop; 2022 Apr. 25–29; Brest, France.
 
-* Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations. Poster presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual. [doi:10.1002/essoar.10506174.1](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}
+* Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations. 
+Poster presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual. [doi:10.1002/essoar.10506174.1](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}
 
-* **Brenner S.**, L. Rainville, J. Thomson, J. MacKinnon, C. Lee, Momentum fluxes across the air-ice-ocean interface in the Beaufort Sea. Poster presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"}
+* **Brenner S.**, L. Rainville, J. Thomson, J. MacKinnon, C. Lee, Momentum fluxes across the air-ice-ocean interface in the Beaufort Sea. 
+Poster presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"}
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [The evolution of an Arctic meltwater front](/assets/pdf/Liege2019_poster.pdf){:target="blank"}. Poster presented at: Liège Colloquium on Ocean Dynamics; 2019 May. 6-9; Liège, Belgium
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [The evolution of an Arctic meltwater front](/assets/pdf/Liege2019_poster.pdf){:target="blank"}. 
+Poster presented at: Liège Colloquium on Ocean Dynamics; 2019 May. 6-9; Liège, Belgium
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Small scale upper-ocean variability in the Arctic](/assets/pdf/OSM2018_poster.pdf){:target="blank"}. Poster presented at: Ocean Sciences Meeting; 2018 Feb. 11-16; Portland, OR
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Small scale upper-ocean variability in the Arctic](/assets/pdf/OSM2018_poster.pdf){:target="blank"}. 
+Poster presented at: Ocean Sciences Meeting; 2018 Feb. 11-16; Portland, OR
 
-* **Brenner S.**, B. Laval, J. Shore, S. Vagle. [Surface Seiching in Quesnel Lake, British Columbia](/assets/pdf/CMOS2017_poster.pdf){:target="blank"}. Poster presented at: Canadian Meteorological and Oceanographic Society Congress; 2017 June 4-8; Toronto, ON
+* **Brenner S.**, B. Laval, J. Shore, S. Vagle. [Surface Seiching in Quesnel Lake, British Columbia](/assets/pdf/CMOS2017_poster.pdf){:target="blank"}. 
+Poster presented at: Canadian Meteorological and Oceanographic Society Congress; 2017 June 4-8; Toronto, ON
 <!-- SEE http://cmosarchives.ca/Congress_P_A/program_abstracts2017.pdf (pg.304) 1708011 POSTER SESSION - PART 2 -->
 
  <!-- [back to top](#top) -->
