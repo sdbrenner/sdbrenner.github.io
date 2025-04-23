@@ -1,5 +1,5 @@
 ---
-title: "Floe-scale variablility"
+title: "Floe-scale variablility in sea ice-ocean coupling"
 layout: page
 actions:   
   - label: "back to research page"
@@ -18,7 +18,8 @@ However, when considering air-sea coupling at climate model scales, the role of 
 As a result, the spatial heterogeniety in surface properities that is an inherent feature of the floe-covered MIZ is not resolved or accounted for. 
 Yet, there is an increasing awareness that sea ice melt rates and atmosphere/ocean boundary layer dynamics are impacted by floe-scale effects.
 
-Explicit representation of sea ice floes—as opposed to traditional continuum models—introduces constraints on the ice velocity field, as the floes move as solid bodies.
+Explicitly representing sea ice floes—rather than treating the ice cover as a continuum—introduces a range of new physical effects, as floe-scale features imprint on upper-ocean dynamics.
+For example, because individual floes move as rigid bodies, their motion is subject to geometric and dynamical constraints that differ from continuum behaviour.
 Because ice-ocean fluxes are driven by differences between sea ice and ocean velocity, these velocity constraints can impact the [transfers of momentum](/research/momentum_transfer) and energy across the atmosphere-ice-ocean boundary in a way that depends on the relative horizontal scales of floes and the scales of ocean variablity ([fig. 1](#fig1)).
 
 
