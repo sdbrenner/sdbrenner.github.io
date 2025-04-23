@@ -37,7 +37,7 @@ Because ice-ocean fluxes are driven by differences between sea ice and ocean vel
 During my postdoctoral work at Brown University, I made use of a high-resolution, discrete element model (DEM) of sea ice that explicitly resolves individual sea ice floes ([see video](#floedyn_video)) in order to investigate the joint roles of *floe-floe interactions* and *flow-floe interactions* in mediating ice-ocean exchanges ([Brenner et al., 2023](#Brenner2023)).
 I also considered the role of individual ice floes in a surface-gravity-wave model to understand geometric constraints on local wave growth ([Brenner & Horvat, 2024](#Brenner2024)).
 
-My ongoing postdoctoral work at Caltech continues investigating these effects using a combination of methods, including a sea ice DEM coupled to an ocean large-eddy-simulation model in order to understand how sea ice floe scales imprint on the scales associated with the underlying dynamics associated with energy transfers in the upper ocean.
+My ongoing postdoctoral work at Caltech continues investigating these effects using a combination of methods, including a sea ice DEM coupled to an ocean large-eddy-simulation (LES) model in order to understand how sea ice floe scales imprint on the scales associated with the underlying dynamics associated with energy transfers in the upper ocean.
 
 
 <!-- Through these simlulations, I am investigating scale-dependent impacts on ice-ocean coupling and surface fluxes to understand the joint roles of *floe-floe interactions* and *flow-floe interactions*. -->

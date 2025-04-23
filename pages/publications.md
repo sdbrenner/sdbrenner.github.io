@@ -68,6 +68,9 @@ Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow co
 
 #### presentations
 
+* **Brenner, S.**, Thompson, A., Manucharyan, G., Gupta, M., Gering, S.
+Floe-scale variability in upper ocean energy pathways
+Presented at: 2nd Annual CAMAS Workshop and Early-Career School; 2025 Apr. 15-18; Seattle, WA.
 
 * Foss, Ø., M. Granskog, **S. Brenner**, E. Salganik, J. Landy, A. Sundfjord
 Seasonal arrival of older, thicker sea ice in in-situ observations from the northwestern Barents Sea
@@ -115,10 +118,6 @@ Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
 
 
 #### posters
-
-<!-- * **Brenner, S.** & Thompson, A. 
-Floe-scale variability in upper ocean energy pathways
-To be presented at: 2nd CAMAS Workshop and Early-Career School; 2025 Apr. 15-18; Seattle, WA. -->
 
 * Rosenblum, E., D. Arends, D. Babb, **S. Brenner**, A. Cabaj, S. DeAbreu, C. Horvat, D. Kelley, M. McCrystall, J. Olsthoorn, J. Stroeve.
 Ice-ocean boundary layer experiments in a mini-Arctic Ocean. 
