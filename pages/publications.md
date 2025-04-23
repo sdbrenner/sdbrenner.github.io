@@ -123,22 +123,28 @@ Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
 Ice-ocean boundary layer experiments in a mini-Arctic Ocean. 
 Poster presented at: ArcticNet Annual Scientific Meeting; 2022 Dec. 4–8; Toronto, Canada.
 
-* Thomson J., S. Wahlgren, V. Cooper, **S. Brenner**, M. Smith, S. Swart, L. Biddle, C. Bitz. Waves observed far (>100 km) within sea ice. 
+* Thomson J., S. Wahlgren, V. Cooper, **S. Brenner**, M. Smith, S. Swart, L. Biddle, C. Bitz. 
+Waves observed far (>100 km) within sea ice. 
 Poster presented at: Wind waves In the Earth System (WISE) Workshop; 2022 Apr. 25–29; Brest, France.
 
-* Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations. 
+* Cooper, V., L. Roach, C. Bitz, **S. Brenner**, J. Thomson, 
+Towards Validating Wave-Ice Interactions in Climate Models Using In Situ Observations. 
 Poster presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual. [doi:10.1002/essoar.10506174.1](https://www.essoar.org/doi/abs/10.1002/essoar.10506174.1){:target="blank"}
 
-* **Brenner S.**, L. Rainville, J. Thomson, J. MacKinnon, C. Lee, Momentum fluxes across the air-ice-ocean interface in the Beaufort Sea. 
+* **Brenner S.**, L. Rainville, J. Thomson, J. MacKinnon, C. Lee.
+Momentum fluxes across the air-ice-ocean interface in the Beaufort Sea. 
 Poster presented at: Ocean Sciences Meeting; 2020 Feb. 17-21; San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"}
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [The evolution of an Arctic meltwater front](/assets/pdf/Liege2019_poster.pdf){:target="blank"}. 
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee.
+[The evolution of an Arctic meltwater front](/assets/pdf/Liege2019_poster.pdf){:target="blank"}. 
 Poster presented at: Liège Colloquium on Ocean Dynamics; 2019 May. 6-9; Liège, Belgium
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Small scale upper-ocean variability in the Arctic](/assets/pdf/OSM2018_poster.pdf){:target="blank"}. 
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee.
+[Small scale upper-ocean variability in the Arctic](/assets/pdf/OSM2018_poster.pdf){:target="blank"}. 
 Poster presented at: Ocean Sciences Meeting; 2018 Feb. 11-16; Portland, OR
 
-* **Brenner S.**, B. Laval, J. Shore, S. Vagle. [Surface Seiching in Quesnel Lake, British Columbia](/assets/pdf/CMOS2017_poster.pdf){:target="blank"}. 
+* **Brenner S.**, B. Laval, J. Shore, S. Vagle. 
+[Surface Seiching in Quesnel Lake, British Columbia](/assets/pdf/CMOS2017_poster.pdf){:target="blank"}. 
 Poster presented at: Canadian Meteorological and Oceanographic Society Congress; 2017 June 4-8; Toronto, ON
 <!-- SEE http://cmosarchives.ca/Congress_P_A/program_abstracts2017.pdf (pg.304) 1708011 POSTER SESSION - PART 2 -->
 
