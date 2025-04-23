@@ -69,19 +69,19 @@ Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow co
 #### presentations
 
 * **Brenner, S.**, A. Thompson, G. Manucharyan, M. Gupta, S. Gering.
-Floe-scale variability in upper ocean energy pathways
+Floe-scale variability in upper ocean energy pathways.
 Presented at: 2nd Annual CAMAS Workshop and Early-Career School; 2025 Apr. 15-18; Seattle, WA.
 
 * Foss, Ø., M. Granskog, **S. Brenner**, E. Salganik, J. Landy, A. Sundfjord.
-Seasonal arrival of older, thicker sea ice in in-situ observations from the northwestern Barents Sea
+Seasonal arrival of older, thicker sea ice in in-situ observations from the northwestern Barents Sea.
 Presented at: European Polar Science Week; 2024 Sep.~3--6; Copenhagen, Denmark
 
 * Hall, P., C. Horvat, B. Fox-Kemper, **S. Brenner**, A Altuntas.
-A Novel Process Model of Ocean-Sea-Ice Interaction using CESM
+A Novel Process Model of Ocean-Sea-Ice Interaction using CESM.
 Presented at: EGU General Assembly; 2024 Apr.~14--19; Vienna, Austria
 
 * Crews, L., C. Lee, L. Rainville, **S. Brenner**.
-Sea ice lead opening increases ice and ocean inertial oscillations during a Beaufort Sea winter storm
+Sea ice lead opening increases ice and ocean inertial oscillations during a Beaufort Sea winter storm.
 L Crews, C Lee, L Rainville, S Brenner
 Presented at: Ocean Sciences Meeting; 2024 Feb. 18-23; New Orleans, LA. 
 
