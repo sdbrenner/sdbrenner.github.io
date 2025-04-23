@@ -77,7 +77,7 @@ Seasonal arrival of older, thicker sea ice in in-situ observations from the nort
 Presented at: European Polar Science Week; 2024 Sep.~3--6; Copenhagen, Denmark
 
 * Hall, P., C. Horvat, B. Fox-Kemper, **S. Brenner**, A Altuntas.
-A Novel Process Model of Ocean-Sea-Ice Interaction using CESM.
+[A Novel Process Model of Ocean-Sea-Ice Interaction using CESM](https://ui.adsabs.harvard.edu/abs/2024EGUGA..2612421H/abstract).
 Presented at: EGU General Assembly; 2024 Apr.~14--19; Vienna, Austria
 
 * Crews, L., C. Lee, L. Rainville, **S. Brenner**.
@@ -90,11 +90,11 @@ Floe-scale effects on ice-ocean boundary layer turbulence.
 Presented at: Ocean Sciences Meeting; 2024 Feb. 18-23; New Orleans, LA. 
 
 * **Brenner, S.**, C. Horvat, P. Hall, A. Lo Piccolo, B. Fox-Kemper, S. Labbé, V. Dansereau
-The dual roles of floe-floe interactions and floe-flow interactions on ice-ocean coupling and surface fluxes.
+[The dual roles of floe-floe interactions and floe-flow interactions on ice-ocean coupling and surface fluxes](https://ui.adsabs.harvard.edu/abs/2023AGUFM.C33B..06B/abstract).
 **Invited presentation** at: AGU Fall Meeting 2023 Dec. 11-15; San Francisco, CA.
 
 * B. Laval, **S. Brenner**, J. Shore, S. Vagle. 
-The influence of geometry on the free barotropic seiche response of two three-armed, fjord-type, lakes.
+[The influence of geometry on the free barotropic seiche response of two three-armed, fjord-type, lakes](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H51E..04L/abstract).
 Presented at: AGU Fall Meeting 2023 Dec. 11-15; San Francisco, CA.
 
 * **Brenner S.**
@@ -104,13 +104,16 @@ Presented at: Physical Oceanography Doctoral Symposium; 2022 Oct. 17--21; Kona, 
 * Sanchez-Rios A., A. Savage, **S. Brenner**, L. Crews, A. Ruiz-Angulo, J. Mackinnon, L. Rainville. Understanding T-S Structure Evolution Across Ocean Fronts: Observations of the Norwegian Atlantic Front Current Along the Mohn Ridge. 
 Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
 
-* **Brenner S.**, L. Rainville, J. Thomson, L. Crews, C. Lee. Seasonal variations of inertial velocities of sea ice and ocean surface layer in the Beaufort Sea. 
+* **Brenner S.**, L. Rainville, J. Thomson, L. Crews, C. Lee. 
+Seasonal variations of inertial velocities of sea ice and ocean surface layer in the Beaufort Sea. 
 Presented at: Ocean Sciences Meeting; 2022 Feb. 27-Mar. 04; virtual.
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee. In-situ observations to validate (and invalidate) model parameterizations of the ice-ocean drag coefficient. 
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee. 
+In-situ observations to validate (and invalidate) model parameterizations of the ice-ocean drag coefficient. 
 Presented at: 10th IICWG-DA Workshop 2021 Oct. 26-28; virtual.
 
-* **Brenner S.**, L. Rainville, J. Thomson, C. Lee, [Distributed and year-long observations of ice-ocean drag across a range of ice morphologies in the Beaufort Sea](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/665282){:target="blank"}. 
+* **Brenner S.**, L. Rainville, J. Thomson, C. Lee.
+[Distributed and year-long observations of ice-ocean drag across a range of ice morphologies in the Beaufort Sea](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/665282){:target="blank"}. 
 Presented at: AGU Fall Meeting 2020 Dec. 01-17; virtual.
 <!-- San Diego, CA. [doi:10.1002/essoar.10502273.2](https://doi.org/10.1002/essoar.10502273.2){:target="blank"} -->
 
