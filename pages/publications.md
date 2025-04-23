@@ -68,11 +68,11 @@ Scale-dependent air-sea exchange in the polar oceans: floe-floe and floe-flow co
 
 #### presentations
 
-* **Brenner, S.**, Thompson, A., Manucharyan, G., Gupta, M., Gering, S.
+* **Brenner, S.**, A. Thompson, G. Manucharyan, M. Gupta, S. Gering.
 Floe-scale variability in upper ocean energy pathways
 Presented at: 2nd Annual CAMAS Workshop and Early-Career School; 2025 Apr. 15-18; Seattle, WA.
 
-* Foss, Ø., M. Granskog, **S. Brenner**, E. Salganik, J. Landy, A. Sundfjord
+* Foss, Ø., M. Granskog, **S. Brenner**, E. Salganik, J. Landy, A. Sundfjord.
 Seasonal arrival of older, thicker sea ice in in-situ observations from the northwestern Barents Sea
 Presented at: European Polar Science Week; 2024 Sep.~3--6; Copenhagen, Denmark
 
