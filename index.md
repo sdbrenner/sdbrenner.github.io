@@ -14,7 +14,8 @@ introduction:
 
 ## research
 
-My research uses a combination of idealized process-level numerical models, *in situ* measurements, and coupled Earth-system models to understand the dynamic and thermodynamic processes linking sea ice and the upper ocean, and how those processes impact—and are impacted by—the changing Arctic climate.
+My research uses a combination of idealized process-level numerical models, *in situ* measurements, and coupled Earth-system models to understand the dynamic and thermodynamic processes linking sea ice and the upper ocean. 
+<!-- , and how those processes impact—and are impacted by—the changing Arctic climate. -->
 
 More details about some of the specific problems that I consider and approaches that I use can be found on my [research page](/research). Also see [list of my publications](/publications). 
 
