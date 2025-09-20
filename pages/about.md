@@ -11,3 +11,4 @@ Prior to my work at Caltech, I worked on similar topics as a postdoc at Brown Un
 
 My earlier background is in civil engineering; I earned both Bachelor's and Master’s of Applied Science (BASc and MASc) degrees from the University of British Columbia.
 My master's research, with [Bernard Laval](https://www.civil.ubc.ca/faculty/bernard-laval), focused on physical limnology.
+Outside my academic research, I have worked in civil and environmental engineering roles in British Columbia and Alberta on projects ranging from small-scale wastewater systems to large municipal infrastructure and industrial construction.
