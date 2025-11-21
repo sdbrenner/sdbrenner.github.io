@@ -33,6 +33,8 @@ actions:
 ## journal articles
 {: #papers}
 
+1. **Brenner, S.**, Thompson, A., Gupta, M. [*In review*]. Patterns of sea ice floes shape ocean turbulence in the marginal ice zone. [Preprint doi:10.21203/rs.3.rs-8099873/v1](https://doi.org/10.21203/rs.3.rs-8099873/v1){:target="blank"}.
+
 1. Thomson, J., Yang, J., Taylor, R., Rainville, E., Zeiden, K.,  Rainville, L., **Brenner, S.**, Ballard, M., Cronin, M., 2024. Surface wave development and ambient sound in the ocean.  J. Geophys. Res. Oceans., 129,e2024JC021921. [doi:10.1029/2024JC021921](https://doi.org/10.1029/2024JC021921){:target="blank"}. 
 
 1. **Brenner, S.**, Horvat, C., 2024. Scaling simulations of local wind-waves amid sea ice floes. J. Geophys. Res. Oceans., 129, e2024JC021629. [doi:10.1029/2024JC021629](https://doi.org/10.1029/2024JC021629){:target="blank"}. 
