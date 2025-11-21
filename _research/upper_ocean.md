@@ -1,5 +1,5 @@
 ---
-title: "Eddy dynamics and upper ocean processes"
+title: "Arctic mesoscale and submesoscale dynamics"
 layout: page
 actions:   
   - label: "back to research page"
@@ -48,21 +48,15 @@ However, making measurement sufficient to fully describe these small-scale proce
 
 
 
-[Floe-scale effects](/research/floe_scale/) further impact the evolution of these eddies and surface currents in the marginal ice zone, impacting rates and scales of energy input through baroclinic conversion and energy loss through ice-ocean friction ([Brenner et al., 2023](#Brenner2023)).
+[Floe-scale effects](/research/floe_scale/) further impact the evolution of these eddies and surface currents in the marginal ice zone, impacting rates and scales of energy input through baroclinic conversion and energy loss through ice-ocean friction ([Brenner et al., 2023](#Brenner2023), [Brenner et al., *in review*](#BrennerInReview)).
 Part of my ongoing postdoctoral work aims to investigate those effects through high-resolution coupled numerical modelling.
 
 
 
 
-<!-- 
-However, making measurement of these small-scale processes remains challenging in polar regions.
-
-The development and application of innovative field measurements to overcome challenges inherent in assessing Arctic change has been foundational to my research. In studies that I both led (Brenner et. al., 2020) and collaborated on (MacKinnon et. al., 2021) during my PhD, unique high-resolution ship-based measurements of the upper ocean in the Arctic have given insight into relationships between sea ice and the evolution of eddies—swirling ocean currents that can transport heat—and point to the potential increasing importance of these features. Through my work I have advanced novel approaches for analyzing moored field measurements. By solving “inverse problems”, I’ve constrained parameters used to quantify ice-ocean coupling (Brenner et al., 2021), and inferred details about the structure of the ocean surface that would otherwise not be available from traditional data processing
- -->
-
-
-
 #### Related publications
+
+* {: #BrennerInReview}**Brenner, S.**, Thompson, A., Gupta, M. [*In review*]. Patterns of sea ice floes shape ocean turbulence in the marginal ice zone. [Preprint doi:10.21203/rs.3.rs-8099873/v1](https://doi.org/10.21203/rs.3.rs-8099873/v1){:target="blank"}.
 
 <!-- * Blanchard-Wrigglesworth, E.<span style="color: gray"><sup>**†**</sup></span>, **Brenner, S.**<span style="color: gray"><sup>**†**</sup></span>, Webster, M., Horvat C., Foss, Ø., Bitz, C., 2024. Model biases in simulating extreme sea ice loss associated with the record January 2022 Arctic cyclone. J. Geophys. Res. Oceans., 129, e2024JC021127. [doi:10.1029/2024JC021127](https://doi.org/10.1029/2024JC021127){:target="blank"}.  
  <span style="color: gray">(<sup>**†**</sup> indicates co-first authors)</span> -->

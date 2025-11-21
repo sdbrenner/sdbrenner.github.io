@@ -39,15 +39,28 @@ During my postdoctoral work at Brown University, I made use of a high-resolution
 I also considered the role of individual ice floes in a surface-gravity-wave model to understand geometric constraints on local wave growth ([Brenner & Horvat, 2024](#Brenner2024)).
 
 My ongoing postdoctoral work at Caltech continues investigating these effects using a combination of methods, including a sea ice DEM coupled to an ocean large-eddy-simulation (LES) model in order to understand how sea ice floe scales imprint on the scales associated with the underlying dynamics associated with energy transfers in the upper ocean.
+In coupled ice-ocean simulations, FSDs that include larger floes generate stronger and more energetic eddies and filaments, even for identical total sea ice coverage ([fig. 2](#fig2)).
+We see that the patterns of sea ice cover mediate the strength of large-scale ocean turbulence, with 
+explicit representation of sea ice floes both energizing and damping ocean mesoscale and submesoscale dynamics ([Brenner et al., *in review*](#BrennerInReview)).
 
 
-<!-- Through these simlulations, I am investigating scale-dependent impacts on ice-ocean coupling and surface fluxes to understand the joint roles of *floe-floe interactions* and *flow-floe interactions*. -->
-
-
+<figure class="align-center">
+  <img src="/assets/images/three_dim_output.png">
+  <figcaption>fig. 2 
+    (Reproduced from 
+    <a href="#BrennerInReview"> 
+      Brenner et al., *in review*
+    </a>):
+    Upper-ocean sub/mesoscale turbulence in floe-resolving ice-ocean coupled model simulations of the MIZ for (a) an FSD with large maximum floe size, and (b) an FSD with small maximum floe size.
+  </figcaption> 
+</figure>{: #fig2}
 
 
 
 #### Related publications
+
+* {: #BrennerInReview}**Brenner, S.**, Thompson, A., Gupta, M. [*In review*]. Patterns of sea ice floes shape ocean turbulence in the marginal ice zone. [Preprint doi:10.21203/rs.3.rs-8099873/v1](https://doi.org/10.21203/rs.3.rs-8099873/v1){:target="blank"}.
+
 
 * {: #Brenner2024}**Brenner, S.**, Horvat, C., 2024. Scaling simulations of local wind-waves amid sea ice floes. J. Geophys. Res. Oceans., 129, e2024JC021629. [doi:10.1029/2024JC021629](https://doi.org/10.1029/2024JC021629){:target="blank"}. 
 
